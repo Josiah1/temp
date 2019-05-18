@@ -1,0 +1,4508 @@
+--------------------
+shift begins 
+Shifter 	 :  Mouri
+Shift time :  2017.05.07-2017.05.13
+--------------------
+
+Run 90 : 
+stopped at 90_4.  Reason : Run 90 stopped because the trigger time of the 
+board 3 was different than the trigger time
+of board 0 by -6.27 e+07
+Run 93 : 
+stopped at 93_41. Reason : Run 93 stopped because the trigger time of board 
+3 is different than that of board0 by 1.71799e+10 ns
+
+--------------------
+shift begins 
+Shifter 	 :  Luo Wentai
+Shift time :  2017.05.14-2017.05.31
+--------------------
+
+5.14:	
+start a new physics run No.96
+5.15:	
+start a new Pedestal run No.97	
+start a new physics run No.98
+start a new Pedestal run No.99
+start a new physics run No.100
+start a new physics run No.101
+start a new physics run No.102
+5.16:	
+start a new physics run No.103
+5.17:	
+start a new physics run No.104
+5.19:	
+start a new Pedestal run No.105
+start a new physics run No.106
+start a new physics run No.108
+5.21:	
+start a new physics run No.109
+start a new physics run No.110
+start a new physics run No.111
+PS:
+192.168.0.90 wifi
+cf2 192.168.0.91  windows jinping computer
+cf2 192.168.0.92 online
+cf2 192.168.0.93 voltage
+VPN:
+IP address	222.215.159.42
+Group name	cjpl-vpn-jinping
+Group password	cjpl-vpn-service
+User name	vpn-user
+User password	cjpl-vpn
+
+Channel30->Channel23
+
+5.18:   
+0.66MOhmcm 19.5 degree
+5.19~5.21:	Open the water circle system (run No.105 ~run No.110 
+running with opening water circle system)
+
+--------------------
+shift begins 
+Shifter 	 :  Guo Lei 
+Shift time :  2017.06.01--2017.06.24 
+--------------------
+2017.06.02 13:31: 
+Start a new physical run, run number:112 
+2017.06.03 20:30: 
+Lab circuit switching 
+2017.06.08 10:40: 
+Pure water machine start and produce water but into the sewer to clean 
+pure water machine.But forget stop the run 112 
+2017.06.08 12:57: 
+Stop the run 112 and start run 113. Pure water machine still working 
+2017.06.08 5:05:  
+Stop the water machine and start a new physical run:114
+2017.06.09 9:32:  
+Stop run 114 and start a new physical run 115 
+2017.06.10 10:30: 
+Stop run 115 and start a new phsical run 116 
+2017.06.10 17:24: 
+run 116 stoped at 13:30 and restart a new physcicl run number 117 
+2017.06.11 10:25: 
+stop run 117 and start a new physical run 118 
+2017.06.12 10:05: 
+stop run 118 and start a new physical run 119
+2017.06.13 10:16: 
+stop run 119 and start a new physical run 120 
+2017.06.14 10:10: 
+stop run 120 and start a new physical run 121
+2017.06.15 10:11: 
+stop run 121 and start a new physical run 122 
+2017.06.16 10:00: 
+stop run 122 and start a new physical run 123
+2017.06.17 10:00: 
+stop run 123 and start a new physical run 124
+2017.06.18 10:15: 
+stop run 124 and start a new physical run 125
+2017.06.19 10:00: 
+stop run 125 and start a new physical run 126
+2017.06.20 10:25: 
+stop run 126 and start a new physical run 127
+2017.06.21 10:37: 
+stop run 127 and start a new physical run 128
+2017.06.21 14:52: 
+stop run 128 and change the HV accroding to PMT calibtraion table excel. 
+and 15:26 start a pedestal run and general a Ped_129.root 
+ and start a new physical run 130 at 15:35
+2017.06.22 11:17: 
+stop run 130 and start a new physical run 131
+2017.06.23 10:30: 
+stop run 131 and start a new physical run 132
+
+--------------------
+shift begins 
+shifter     :Jinjing Li
+shift time: 2017.06.25-2017.07.26
+--------------------
+
+2017.06.25:
+Flight CA1497 in the morning. Arriving in jinping at about 5:00 afternoon. 
+Dealing with affairs and network-things in the evening.
+2017.06.26:
+I entered the experimental cave at 8:00. Then I stopped run 132 and started 
+a new physical run 133 at about 9:25. Trying to be familiar with the posters. 
+Then got out of the cave at about 10:30.
+Trying to summary the shift handbook in the afternoon.
+2017.06.27:
+Morning about 9:48, I login Xshell in my computer, and then stopped run 
+133 and started a new physical run 134. The shell print: 
+" The trigger time of board 3 if different than that of board0 by 
+-2.28765e+07 ns.  Press ``Enter'' key to exit''  "
+Then I press Enter key and start a new physical run 135.
+2017.06.28:
+In the morning, about 10:15, I stop the run 135 and then start a run 136. 
+In the afternoon, I enter the experimental cave to measure the radius of 
+pipes deployed on the water purifier.
+2017.06.29:
+In the morning, about 11:15, I stop the run 136 and then start a run 137. 
+2017.06.30:
+In the morning, about 11:30, I stop the run 137 and then start a run 138. 
+2017.07.01:
+Online access has been totally down. I thought I couldn't login online 
+server, so I didn't start a new run.
+2017.07.02:
+Net connection hasn't been recovered. I stop run 138 and start a new run 
+139.
+2017.07.03:
+I stop run 139 and start a new run 140 in the afternoon about 18:40.
+2017.07.04:
+I stop run 140 and start a new run 141 in the afternoon about 16:40.
+2017.07.05:
+I stop run 141 and start a new run 142.
+2017.07.06:
+I stopped run 142. Then Open the water cycle of water purifier for outer 
+tank. And start a new run 143 at last.
+2017.07.07:
+I stop the run 143 and start a new run 144. Water resistivity has been 
+going up.
+2017.07.08:
+I stop the run 144 and start a new run 145 at about 11:00. Water resistivity 
+keeps going up.
+2017.07.09:
+I stop the run 145 and start a new run 146 at about 11:25. Water resistivity 
+keeps going up.
+2017.07.10:
+I stop the run 146 and start a new run 147. Water resistivity keeps going 
+up.
+2017.07.11:
+I stop the run 147 and start a new run 148. This morning the lab was out 
+out of power for 10 minutes. So the water purifier has stop working. And 
+I open it again in the afternoon.
+2017.07.12:
+The run 148 stopped abruptly and printed following message:
+Data written to data/Jinping_1ton_Phy_20170712_00000149.root
+
+Connected to CAEN Digitizer Model V1751, recognized as board 0
+	ROC FPGA Release is 04.10 - Build 0401; 	AMC FPGA Release 
+is 00.06 - Build 0225
+
+Connected to CAEN Digitizer Model V1751, recognized as board 1
+	ROC FPGA Release is 04.10 - Build 0401; 	AMC FPGA Release 
+is 00.06 - Build 0225
+
+Connected to CAEN Digitizer Model V1751, recognized as board 2
+	ROC FPGA Release is 04.10 - Build 0401; 	AMC FPGA Release 
+is 00.06 - Build 0225
+
+Connected to CAEN Digitizer Model V1751, recognized as board 3
+	ROC FPGA Release is 04.10 - Build 0401; 	AMC FPGA Release 
+is 00.06 - Build 0225
+
+then start a new run 149. Water resistivity keeps going up.
+2017.07.13:
+I stop the run 149 and start a new run 150. 
+2017.07.14:
+I stop the run 150 and start a new run 151. 
+2017.07.15:
+Power down, open water purifier. I stop the run 151 and start a new run 
+152. 
+2017.07.16:
+Power down in the morning 9:40, then open water purifier. I stop the run 
+152 and start a new run 153. 
+2017.07.17:
+I stop the run 153 and start a new run 154 at 13:53. 
+The run 154 stopped abruptly and printed隆锚o
+The trigger time of board 2 is different than that of board0 by 169584 
+ns.
+then I start a new run 155.
+2017.07.18:
+I stop the run 155 and start a new run 156 at 13:35. 
+2017.07.19:
+I stop the run 156 and start a new run 157 at 15:40. 
+2017.07.20:
+I stop the run 157 and start a new run 158 at 16:36. 
+2017.07.21:
+I stop the run 158 and start a new run 159 at 16:08. 
+2017.07.22:
+I stop the run 159 and start a new run 160 at 15:02. 
+2017.07.23:
+I stop the run 160 and start a new run 161 at 14:40. 
+2017.07.24:
+I stop the run 161 and start a new run 162. 
+2017.07.25:
+I stop the run 162 and start a new run 163 at 15:39. 
+2017.07.26:
+I stop the run 163 and start a new run 164 at 11::32. 
+Data acquisition stop at 12:53.
+
+--------------------
+shift begins 
+Shifter 	 :  Zhe Wang, Ziyi Guo, Lars
+Shift time :  2017.07.26-2017.08.01
+--------------------
+2017-07-26
+1:30 pm Zhe Wang arrived
+Stop data taking of run 164.
+Longest loss of power ~1/2 hour. UPS still runs for this situation.
+Stop water circulation of outer vessel
+Water resistance of outer vessel: 2.15 Mohm and 2.46 Mohm
+PMT current: 0.129 mA - 0.146 mA
+Stop high voltage supply
+Put on a new Wiener-ISEG high voltage supply
+PMT current: 0.133 - 0.136 mA, only Neg13 142 mA
+
+2017-07-27
+All HV are set to 1700 V
+Start run 
+2017.07.27   11:10:
+Stop run 167.
+2017.07.27   11:25:	
+Wentai modified the high voltage for each PMT according to PMT calibration 
+table excel.
+2017.07.27   11:50:	
+Guo Lei check the high voltage value.
+2017.07.27   11:53:
+Start a new physics run 168.
+In the afternoon we examine concentration solutions and get though all 
+calculations again. Do preparation of LS replacement.
+
+2017-07-28
+Stop run 168
+Before any LS-water pumping operation
+Outer water level 20.45 cm
+Inter vessel level 20.75 cm
+
+10:08 Start to pump out water
+  10:17 Inter vessel level 57.61 cm
+  11:20 Leave for lunch at level 70 cm
+
+13:00 Start pump out water and liquid scintillator 1st tank in
+  First tank: 162.2 kg of LAB
+  Water pump runs at 30% of full rate, LS running at 20% of the full rate
+  13:17, level 80 cm, then LS pump change to 30% of the full rate
+  13:50, 1/3 of a barrel is finished
+  14:03, level 84 cm. Increase LS pump to 40% of the full rate 
+  14:35, level 80 cm, 2/3 of a tank of LS is inside
+  15:02, roughly 1 of LS tank is pumped in.
+  Next always try to control liquid level at 75-80 cm by adjusting two 
+pumps and valves.
+  Dirty thing found at the bottom of tank one, inside of the bag
+ - LS (LAB+PPO+Bis-MSB) left from Tank 1 is about 0.5 liter
+
+15:40 Second tank of LS starts pumping
+  2nd tank: 174.8 kg of LAB
+17:05 Inner sphere liquid level 73 cm
+17:15 Stop all pumping and turn off all volves
+  
+2017-07-29
+  8:33 Inner sphere level 73 cm, Restore pumping tank 2 LS
+  8:42 Finished the 2nd tank
+
+8:45 Start 3rd tank of LS
+  3rd tank: 143.2 kg of LAB
+  9:12 while preparing 4th tank of LS, may loss concentration solution 
+10 mL
+  10:24 Finish 3rd tank
+  At 60% rate of LS pump, the flow rate is 172.5316L/99 min = 1.743 L/min
+  To add 30 L of LAB (since 1200 L is not enough), we need pump it for 
+17.2 min.
+
+10:30 Pump in pure LAB for 17.2 min, about 30 L from tank 7 (total 169.3 
+kg of LAB in tank 7)
+
+10:50 Start to pump the 4th tank of LS
+  4th tank: 170.5 kg of LAB
+  11:20 Leave for lunch
+  12:45 Restart of tank 4
+  14:08 Finished tank 4
+  About ((170.5/0.86)+7.19)/(30+15+60+08)=1.8181 L/min
+
+14:11 Pump in pure LAB for 16.5 min, about 30 L from tank 7
+
+14:30 Start pump tank 5
+  5th tank: 171.4 kg of LAB
+  16:30 Finished tank 5
+  We have stopped pumping water out but let it flow naturally.
+  Now the inner vessel level is 69.53 cm
+  Checking outer water level now: 20.50 cm, which is different by 
+20.50-25.45=0.05 cm=0.5 mm from the beginning. Great, no leaking to outer 
+vessel.
+
+16:?? Start pump tank 6
+  6th tank: 168.6 kg of LAB
+  17:16 at 50-60 cm inner vessel liquid level changes very fast, must in 
+neck
+  17:16 Stop all pumping and turn off all valves, inner liquid level 51.10 
+cm
+
+2017-07-30
+8:30 Inner liquid level 50.07 cm
+  Since inner sphere is almost full, start pump our water for a while
+  At 8:58 The first sign of LS was seen at the outlet observing barrel
+  9:00 Pump LS from tank 6 again
+One valve is closed during pumping, causing a pipe and a connector broken 
+and serious leaking. 10:27 fixed pipe and connector. Next time, need an 
+outlet pressure gauge.
+  10:27: Inner liquid level 64 cm
+  10:40: 57.99 cm, release air pressure for a second
+  10:46 LS reach overflow tank. Around 21 cm - 22 cm level change slowly 
+now.
+  11:17 LS reach 17.25 cm. Stopped. Leave for lunch
+
+14:04 Inner vessel stabilized at 15.80 cm
+14:09 Start a new test run to check time information
+  Run 169. Quit too fast (Physics run, NHit>=4, 170 Hz, 27Mb/s). 
+  Pedestal run 170 first
+  Run 171 Physics run (NHit>=4, 169 Hz, 29 Mb/s, quit by itself.)
+  Scan NHit threshold for a workable trigger rate
+  NHit>=22 can Trigger rate 111 Hz 27 Mb/s
+  Start Run 192 (with NHit>=25)
+
+Fixed trigger time "Sec" output bug for Readout program
+Added log file output for Readout program
+
+17:10 Start physics run 209 with NHit>=25. (Trigger rate 63 Hz, 15 Mbytes/s)
+20:21 Find a bug in file name. Fixed.
+Start run physics 213 with NHit>=27 (Trigger rate 31, file 7.6 Mbytes/s)
+Change the readout size to 1024 bytes to enhance writing rate
+21:02 Start run physics 237 with NHit>=25 (Trigger rate 63, file 7.6 
+Mbytes/s)
+22:25 Change run control to "beginrun.csh" and "endrun.csh" to be 
+remote-control friendly.
+22:20 Start run physics 254 with NHit>=25 (Trigger rate 63, file 7.6 
+Mbytes/s)
+
+2017-07-31
+ 8:30 Inner vessel level 15.8 cm consistent with yesterday. No obvious 
+level change.
+     Outer vessel level 20.45 cm consistent with early measurement.
+ Stop run 254
+   Run 255 is strange. May be a hung-up run restarted
+ Start run 256
+ Disconnect LS pump.
+ Packing
+ Clean working area
+ Set up a monitor
+ Stop run 256
+ Install apache on online farm
+ Start run 257 when leaving
+--------------
+shift begins 
+Shifter 	 :  Guo Ziyi
+Shift time :  2017.08.01-2017.08.23
+---------------
+2017-08-01
+7:30 Start run 258
+
+8-2
+9:20 Start run 259
+18:30 Power supply outage of the lab.
+19:00 Recover
+
+8-3
+9:40 Start run 260
+
+8-4
+9:40 Start run 261
+
+8-5
+9:40 Start run 262
+
+8-6
+9:40 Start run 263
+
+8-7
+8:50 Start run 264
+
+8-8
+11:40 Start run 265
+13:43 Stop run 265
+deploy onsite Event Display
+13:43 Start run 266
+
+8-9
+11:40 Start run 267
+
+8-10
+12:30 Start run 268
+
+8-11
+11:50 Start run 269
+
+8-12
+9:10 Start run 270
+Inner liquid level: 15.88cm
+Outer liquid level: 20.53cm
+
+8-13
+9:10 Start run 271
+
+21:00 Power supply outage of the lab.
+22:30 Recover
+
+8-14
+7:50 Start run 272
+
+8-15
+9:10 Start run 273
+
+8-16
+10:10 Start run 274
+
+8-17
+10:10 Start run 275
+
+8-18
+22:00 Start run 276
+
+8-19
+15:40 Start run 277
+
+8-20
+15:40 Start run 278
+
+8-21
+10:00 Start run 279
+13:33 Stop tun 279
+13:35 Start Ped run 280
+13:45 Start Physics run 281
+
+8-22
+15:40 Start run 282
+
+--------------
+shift begins 
+Shifter 	 :  Luo Wentai
+Shift time :  2017.08.24-2017.09.25
+---------------
+
+20170824:rainning
+14:29 stop run 282
+14:35 start run 283
+use 85w power 
+
+20170825:cloudy
+10:50 stop run 283
+10:51 start run 284
+12:52 download data 257~269 and run 284 stop by itself
+13:51 start run 285
+set two camera, one of the camera can see the electronic's details, another 
+one can see the total view with second floor
+camera隆锚o192.168.0.220
+admin
+cjpl2008
+
+20170826: sunny
+23:56 stop run 285
+23:57 start run 286
+
+20170827:sunny
+13:00 Power supply outage of the lab
+22:31 stop run 286
+22:32 start run 287
+
+20170828: rainny with lightning
+23:25 stop run 287
+23:26 start run 288
+
+20170829: cloudy
+22:40 stop run 288
+22:42 start run 289
+
+20170830: cloudy
+11:02 stop run 289 
+11:06 start run 290
+21:00 earthquake happened
+22:48 stop run 290
+22:50  change the HV
+23:02 start run 291
+
+20170831: cloudy
+18:40  Power supply outage of the lab
+22:27 stop run 291
+22:28 start run 292
+
+20170901:cloudy
+4:30  run 292 stopped by itself
+8:30 start run 293
+10:52 run 293 stopped by itself
+20:46 start run 294
+19:12  Power supply outage of the lab
+
+20170902:rainny
+21:07 stop run 294
+21:08 start run 295
+
+20170903: cloudy
+17:01 stop run 295
+17:01 start run 296
+
+20170904: cloudy and rainy
+23:05 stop run 296
+23:20 change the HV
+23:21 start run 297
+
+20170905: rainy
+23:35 stop run 297
+23:36 start run 298
+
+20170906: cloudy
+
+20170907: cloudy
+00:11 stop run 298
+00:11 start run 299
+22:48 stop run 299
+22:49 start run 300
+
+20170908: sunny
+21:38  stop run 300
+21:38 start run 301
+
+20170909: sunny 
+3:00  Power supply outage of the lab
+16:57 stop run 301
+16:58 start run 302
+22:00 lightning
+23:00 rainy
+
+20170910: sunny
+21:08 stop run 302
+21:11 start run 303
+
+20170911:sunny
+22:17 stop run 303
+22:17 start run 304
+
+20170912:sunny
+9:20   Power supply outage of the lab
+18:40 earthquake
+19:20 earthquake
+20:12 stop run 304
+20:12 start run 305
+
+2170913:sunny and rainy
+20:00 lightning
+23:34 stop run 305
+23:35 start run 306
+
+20170914:cloudy and sunny
+00:37 earthquake
+23:01 stop run 306
+23:01 start run 307
+
+20170915:rainny and sunny
+
+4:00 earthquake
+20:00 stop run 307
+20:02 start run 308
+
+20170916:sunny
+21:01 earthquake
+22:08 stop run 308
+22:08 start run 309
+
+20170917:sunny
+22:19 stop run 309
+22:20 start run 310
+
+20170918:sunny and cloudy
+22:25 stop run 310
+22:26 start run 311
+
+20170919:sunny and lightning
+22:00 lightning
+22:20 stop run 311
+22:20 start run 312
+
+20170920: rainny and cloudy
+22:09 stop run 312
+22:10 start run 313
+
+20170921:rainny
+13:54 earthquake
+17:38  Power supply outage of the lab
+22:36 stop run 313
+22:37 start run 314
+
+20170922: cloudy
+17:24 stop run 314
+17:24 start run 315
+
+20170923:sunny
+21:22 stop run 315
+21:23 start run 316
+
+20170924:sunny
+20:05 stop run 316
+20:06 start run 317
+
+20170925:sunny
+14:47 stop run 317
+14:47 start run 318
+
+--------------
+shift begins 
+Shifter 	 :  Xu Weiran
+Shift time :  2017.09.26-2017.10.12
+---------------
+Sept 26
+15:24 stop run 318
+16:10 start run 319
+Sept 27
+14:01 stop run 319
+14:10 Wenrai change HV
+14:15 start run 320
+22:31 seems like thunder without sound
+Sept 28
+14:02 end run 320 and begin run 321.
+
+Sept 29
+17:31 end run 321.
+17:40 start pedestal run 322 and then start physical run 323.
+Sept 30
+16:00 end run 323 and begin ped run 324.
+16:02 begin phys run 325.
+
+14:14 earthquake in Mianyang, level 5.4.
+Oct 1
+16:39 end run 325 and start ped run 326.
+16:42 begin phy run 327.
+Oct 2
+15:33 end run 327 and begin ped run 328.
+15:36 begin phys run 329
+Oct 3
+14:20 End run 329. Connect ultrasonic detector. Inner sphere LS level 15.94cm, 
+outer 
+sphere water level 20.53cm, temperature 19.0C.
+14:25 Begin ped run 330.
+14:30 Begin phys run 331.
+15:59 Stop data taking due to purified water taking process, required by cedx.
+17:05 Restart data taking and begin phys run 332.
+Oct 4
+20:17 end run 332 and begin run 333.
+Oct 5
+17:24 end run 333 and begin ped run 334.
+17:28 begin run 335.
+Oct 6
+16:59 stop run 335 and begin ped run 336.
+17:04 begin phys run 337.
+Oct 7
+15:48 end run 337 and begin ped run 338.
+15:52 begin phys run 339.
+Oct 8
+13:57 end run 339 and begin ped run 340.
+14:14 end ped run 340 and begin phys run 341.
+Oct 9
+15:00 end run 341 and begin run 342. 
+Oct 10
+14:28 end run 342 and begin run 343.
+Oct 11
+14:26 end run 343, begin ped run 344 and then phys run 345.
+Oct 12
+18:36 end run 345, begin ped run 346 and phys run 347.
+Oct 13 end run 347, begin ped run 348 and phys run 349;  
+Oct 14 end run 349, begin ped run 350 and phys run 351.
+
+--------------
+shift begins 
+Shifter 	 :  Zhao Lin
+Shift time :  2017.10.15-2017.11.14
+---------------
+2017.10.15: Cloudy
+14:10 end run 351
+14:11 begin run 352 
+23:01 earthquake (maybe)
+
+2017.10.16: Cloudy and rainny
+14:30 end run 352
+14:30 begin run 353
+
+2017.10.17: Cloudy & Sunny
+9:30
+Water resistance: Det1 10:36am, 19.3??, 0.26M|?*cm; Det2 10:34am, 19.4??, 
+0.25M|?*cm
+15:00
+End run 353
+15:03
+Start pedestal run 354
+End pedestal run 354
+15:12
+Start Ped run 355 
+
+2017.10.18 Sunny
+14:30 
+Stop run 355
+14:31
+Start and stop ped run 356
+14:33
+Start Phy run 357
+14:35
+Water resistance: Det1 15:17, 19.3??, 0.26M|?*cm; Det2 15:15, 19.3??, 0.25M|?*cm
+
+2017.10.19 Sunny
+14:25
+Stop run 357
+Start run 358
+
+2017.10.20 Sunny
+14:05
+Stop run 358
+Start run 359
+
+2017.10.21 Rainy
+7:44 Earthquake
+
+15:00
+Stop run 359
+Start run 360
+
+2017.10.22 Rainy
+12:52
+Water resistance: Det1 13:33, 19.2??, 0.25M|?*cm; Det2 13:31, 19.3??, 0.24M|?*cm
+14:53
+Stop run 360
+Start run 361
+
+2017.10.23 Rainy
+12:30-13:30
+Connect ultrasonic detector. Inner sphere LS level 15.94cm, 18.2??, outer sphere 
+water level 
+20.51cm, temperature 19.2??.
+Water resistance: Det1 13:33, 19.2??, 0.25M|?*cm; Det2 13:31, 19.2??, 0.24M|?*cm
+
+14:35
+Stop run 361
+Start run 362
+
+2017.10.24 Sunny
+12:51
+Water resistance: Det1 13:33, 19.2??, 0.25M|?*cm; Det2 13:31, 19.2??, 0.23M|?*cm
+14:03
+Stop run 362
+Start run 363
+
+2017.10.25 Sunny
+14:39
+Stop run 363
+14:40
+Start and stop Pedestal run 364
+14:44
+Start Phy run 365
+
+2017.10.26 Sunny
+9:51
+Water resistance: Det1 10:31, 19.2??, 0.24M|?*cm; Det2 10:31, 19.2??, 0.23M|?*cm
+16:54
+Stop run 365
+Start run 366
+
+
+2017.10.27 Sunny
+8:28
+Water resistance: Det1 09:10, 19.2??, 0.24M|?*cm; Det2 09:08, 19.2??, 0.23M|?*cm
+14:17
+Stop Phy run 366
+Start Ped run 367
+14:19
+Stop Ped run 367
+14:22
+Start Phy run 368
+
+2017.10.28 Sunny
+16:04
+Stop Phy run 368
+Start Ped run 369
+16:06
+Stop Ped run 369
+16:09
+Start Phy run 370
+16:56
+Water resistance: Det1 17:36, 19.2??, 0.24M|?*cm; Det2 17:36, 19.2??, 0.22M|?*cm
+
+2017.10.29 Sunny
+15:08
+Stop phy run 370
+Start phy run 371
+
+2017.10.30 Cloudy
+11:02
+Water resistance: Det1 11:44, 19.1??, 0.23M|?*cm; Det2 11:43, 19.2??, 0.22M|?*cm
+12:30-13:30
+Connect ultrasonic detector. Inner sphere LS level 15.94cm, 18.0??, outer sphere 
+water level 
+20.51cm, temperature 18.8??.
+14:30
+Found "The trigger time of board 3 is different than that of board0 by 
+1.71799e+10 ns"
+Phy run 371 stopped at Oct 30 02:07
+14:32
+Start Ped run 372
+14:35
+Stop Ped rum 372
+14:39 
+Start Phy run 373
+
+
+2017.10.31 Sunny
+16:18
+Stop phy run 373
+Start phy run 374
+
+2017.11.01 Sunny
+20:28
+Stop phy run 374
+Start phy run 375
+
+2017.11.02 Rainy
+08:19
+Water resistance: Det1 09:01, 19.1??, 0.22M|?*cm; Det2 08:59, 19.2??, 0.21M|?*cm
+18:32
+Stop phy run 375
+Start phy run 376
+
+2017.11.03 Sunny
+17:40
+Stop phy run 376
+Start phy run 377
+
+
+2017.11.04 Sunny
+09:05 
+Water resistance: Det1 09:40, 19.1??, 0.21M|?*cm; Det2 09:46, 19.1??, 0.21M|?*cm
+20:40
+Stop phy run 377
+Start ped run 378
+20:41
+Stop Ped run 378
+20:44
+Start Phy run 379
+
+2017.11.05 Sunny
+20:04
+Stop phy run 379
+Start phy run 380
+
+2017.11.06 Sunny
+08:22
+Water resistance: Det1 09:20, 19.1??, 0.20M|?*cm; Det2 09:03, 19.2??, 0.20M|?*cm
+08:24-08:30
+Connect ultrasonic detector. Inner sphere LS level 15.95cm, 18.0??, outer sphere 
+water level 
+20.50cm, temperature 19.0??.
+19:46
+Stop Phy run 380
+Start Phy run 381
+
+2017.11.07 Sunny
+21:02
+Stop phy run 381
+21:03
+Start Ped run 382
+21:04
+Stop Ped run 382
+21:05
+Start Phy run 383
+
+2017.11.08 Sunny
+19:45
+Stop phy run 383
+Start phy run 384
+
+2017.11.09 Sunny
+23:09
+Stop phy run 384
+Start phy run 385
+
+2017.11.10 Sunny
+19:20
+Stop phy run 385
+Start phy run 386
+
+2017.11.11 Sunny
+12:54
+Water resistance: Det1 13:37, 19.1??, 0.20M|?*cm; Det2 13:35, 19.2??, 0.19M|?*cm
+22:18
+Stop phy run 386
+Start ped run 387
+22:19
+Stop Ped run 387
+22:21
+Start Phy run 388
+
+2017.11.12 Sunny
+23:56
+Stop phy run 388
+Start phy run 389
+
+2017.11.13 Sunny
+08:29
+Water resistance: Det1 09:13, 19.1??, 0.19M|?*cm; Det2 09:11, 19.1??, 0.19M|?*cm
+08:31-08:38
+Connect ultrasonic detector. Inner sphere LS level 15.95cm, 18.2??, outer sphere 
+water level 
+20.49cm, temperature 18.8??.
+19:52
+Stop phy run 389
+Start phy run 390
+
+2017.11.14 Sunny
+22:09
+Stop phy run 390
+Start phy run 391
+
+--------------
+shift begins 
+Shifter 	 :  Guo Lei
+Shift time :  2017.11.15-2017.12.14
+---------------
+
+2017.11.16 Sunny 
+At 9:28 am, stop last run and start ped run 396.
+
+2017.11.17 Sunny 
+9:10 am, stop last run and start ped run 397.
+At 16:00  Water resistance: Det1 19.1??, 0.18 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.96cm, 18.2??, outer sphere 
+water level 
+20.45cm, temperature 19 ??.
+
+2017.11.18 Sunny 
+At 9:51 am, start Phy run 398 
+
+2017.11.19 Sunny 
+At 9:42 am, start Phy run 399 
+17:25, data taking stopped by Error and start a new Phy run 400.
+
+2017.11.20 Sunny 
+At 9:17 am隆锚? Start Ped run 401 and after one minute stop Ped run 401, start Phy 
+run 402 
+
+2017.11.21 Sunny 
+At 8:20 am, Start Phy run 403. 
+
+2017.11.22 Sunny 
+At 9:20 am隆锚? Start Phy run 404.
+
+2017.11.23 Sunny 
+At 8:44 am隆锚? Start Ped run 405 and after one minute stop Ped run 405, start Phy 
+run 406.
+Water resistance: Det1 19.2??, 0.17 M|?*cm;Det2 19.2??, 0.17 M|?*cm; Connect 
+ultrasonic detector. Inner sphere LS level 15.96cm, 18.2??, outer sphere water 
+level 
+20.44cm, temperature 19 ??.  
+
+2017.11.24 Sunny 
+At 9:27 am隆锚? Start Ped run 407 and after one minute stop Ped run 407, start Phy 
+run 408.
+At 11:00 am, Water resistance: Det1 19.1??, 0.17 M|?*cm;Det2 19.2??, 0.17 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.96cm, 18??, 
+outer sphere water level 20.45cm, temperature 19.2 ??.
+At 10:40 am, Phy run 408 stopped by Error and start Phy run 409. 
+
+2017.11.25 Sunny 
+At 10:07 am隆锚? Start Ped run 410 and after one minute stop Ped run 410, start Phy 
+run 411.
+At 14:20 am, Water resistance: Det1 19.1??, 0.17 M|?*cm;Det2 19.2??, 0.17 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18??, 
+outer sphere water level 20.45cm, temperature 19 ??.
+At 21:40 , Weather become rainy with thunder and lighting. 
+
+2017.11.26 Sunny 
+At 10:23 am隆锚? Start Ped run 412 and after one minute stop Ped run 412, start Phy 
+run 413.
+Water resistance: Det1 19.1??, 0.17 M|?*cm;Det2 19.2??, 0.17 M|?*cm; Connect 
+ultrasonic detector. Inner sphere LS level 15.97cm, 18??, 
+outer sphere water level 20.45cm, temperature 19 ??.
+Phy run 413 stopped by Error and start Phy run 414.
+
+
+2017.11.27 Sunny 
+At 9:15 am隆锚? Start Ped run 415 and after one minute stop Ped run 415, start Phy 
+run 416.
+At 13:13, Water resistance: Det1 19.1??, 0.17 M|?*cm;Det2 19.1??, 0.17 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18??, 
+outer sphere water level 20.45cm, temperature 19 ??.
+
+
+2017.11.28 Sunny 
+At 9:15 am隆锚? Start Ped run 417 and after one minute stop Ped run 417, start Phy 
+run 418.
+At 13:17, Water resistance: Det1 19.1??, 0.16 M|?*cm;Det2 19.1??, 0.16 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18??, 
+outer sphere water level 20.45cm, temperature 19 ??.
+
+2017.11.29 Sunny 
+At 9:15 am隆锚? Start Phy run 419.
+At 15:23, Water resistance: Det1 19.1??, 0.16 M|?*cm;Det2 19.2??, 0.16 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18??, 
+outer sphere water level 20.45cm, temperature 19 ??.
+At 16:00, with out the phone repeat record the parameters 
+
+2017.11.30 Sunny 
+At 9:24 am隆锚?Start Ped run 420 and after one minute stop Ped run 420, start Phy 
+run 421.
+ 
+2017.12.01 Sunny 
+At 8:20 am隆锚?Start Ped run 422 and after one minute stop Ped run 422, start Phy 
+run 423. 
+At 12:47, Climb the platform and did not do anything 
+At 13:35, Climb the platform and then connect the power line. 
+ 
+2017.12.02 Sunny 
+At 9:37 am隆锚? Start Ped run 424 and after one minute stop Ped run 424, start Phy 
+run 425.
+At 13:39, Water resistance: Det1 19.4??, 0.16 M|?*cm;Det2 19.4??, 0.16 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.95cm, 18.2??, 
+outer sphere water level 20.42cm, temperature 19.2??.
+
+
+2017.12.03 Sunny
+At 5:10 am , 2.9 level earthquake happen. 
+At 13:36 am隆锚? stop run 425 
+Start the Pure water cycle 
+At 17:18, Start Ped run 426, after one minute stop it and start Phy run 427. 
+
+2017.12.04 Sunny 
+At 9:41 am隆锚? Start Ped run 428 and after one minute stop Ped run 428, start Phy 
+run 429.
+At 10:58 am , Water resistance: Det1 19.2??, 0.29 M|?*cm;Det2 19.2??, 0.29 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.95cm, 18??, 
+outer sphere water level 20.42cm, temperature 19??.
+
+
+2017.12.05 Sunny 
+At 8:41 am隆锚? Start Ped run 430 and after one minute stop Ped run 430, start Phy 
+run 431.
+At 10:51 am , Water resistance: Det1 19.4??, 0.57 M|?*cm;Det2 19.4??, 0.54 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.94cm, 18.2??, 
+outer sphere water level 20.41cm, temperature 19.2??.
+
+
+2017.12.06 Sunny 
+At 8:55 am隆锚? Start Phy run 432.
+At 8:49 am , Water resistance: Det1 19.5??, 0.91 M|?*cm;Det2 19.5??, 0.90 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.93cm, 18.2??, 
+outer sphere water level 20.40cm, temperature 19.2??.
+
+2017.12.07 Sunny 
+At 8:41 am隆锚? Start Ped run 433 and after one minute stop Ped run 433, start Phy 
+run 434.
+ 
+2017.12.08 Sunny 
+At 8:41 am隆锚? Start Ped run 435 and after one minute stop Ped run 435, start Phy 
+run 436.
+At 09:16 am , Water resistance: Det1 19.7??, 1.69 M|?*cm;Det2 19.7??, 1.57 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.90cm, 18.2??, 
+outer sphere water level 20.38cm, temperature 19.5??.
+
+
+2017.12.09 Sunny 
+At 10:49 am隆锚? Start Ped run 437 and after one minute stop Ped run 437, start Phy 
+run 438.
+At 12:56 am , Water resistance: Det1 19.7??, 1.99 M|?*cm;Det2 19.7??, 1.83 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.88cm, 18.5??, 
+outer sphere water level 20.38cm, temperature 19.5??.
+
+2017.12.10 Sunny 
+At 10:45 am隆锚? Start Ped run 439 and after one minute stop Ped run 439, start Phy 
+run 440.
+At 17:09 am , Water resistance: Det1 19.8??, 2.13 M|?*cm;Det2 19.7??, 2.07 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.88cm, 18.5??, 
+outer sphere water level 20.38cm, temperature 19.5??.
+
+2017.12.11 Sunny 
+At 10:34 am隆锚? Start Ped run 441 and after one minute stop Ped run 441, start Phy 
+run 442.
+At 11:15 am , Water resistance: Det1 19.9??, 2.18 M|?*cm;Det2 19.9??, 2.09 
+M|?*cm; Connect ultrasonic detector. Inner sphere LS level 15.88cm, 18.8??, 
+outer sphere water level 20.37cm, temperature 19.5??.
+
+
+2017.12.12 Sunny 
+At 8:13 am隆锚? Start Ped run 443 and after one minute stop Ped run 443, start Phy 
+run 444.
+At 14:10  , Water resistance: Det1 19.9??, 2.21 M|?*cm;Det2 19.9??, 2.14 M|?*cm; 
+Connect ultrasonic detector. Inner sphere LS level 15.88cm, 18.8??, 
+outer sphere water level 20.36cm, temperature 19.5??.
+
+
+2017.12.13 Sunny 
+At 8:19 am隆锚? Start Phy run 445.
+
+--------------
+shift begins 
+Shifter 	 :  JinJing Li
+Shift time :  2017-12-14 to 2018-01-17
+---------------
+
+2017-12-14 sunny:
+I enter the workplace at 14:28. phy run 446~448 all quit abruptly and I start a 
+new phy run 449;
+Water resistance: Det1 20.0??, 2.24 M|?*cm;Det2 20.0??, 2.20 M|?*cm
+Connect ultrasonic detector:
+At 15:25, Inner sphere LS level 15.86cm, 18.8??; At 15:10, outer sphere water 
+level 20.36cm, temperature 21.8??.
+2017-12-15 sunny:
+I enter the workplace at 13:06. Stop the phy run 449 at 15:27, start the ped run 
+450 at 15:31, stop the ped run 450 at 15:34, start the phy sun 451 at 15:40.
+Water resistance: Det1 20.1??, 2.24 M|?*cm;Det2 20.1??, 2.14 M|?*cm
+Connect ultrasonic detector:
+At 13:17, Inner sphere LS level 15.85cm, 18.8??; At 13:21, outer sphere water 
+level 20.36cm, temperature 19.8??.
+2017-12-16 cloudy:
+I enter the workplace at 12:38. Stop the phy run 451 at 12:47, start the ped run 
+452 at 12:48, stop the ped run 452 at 12:50, start the phy sun 453 at 12:59.
+Water resistance: Det1 20.1??, 2.25 M|?*cm;Det2 20.1??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 12:46, Inner sphere LS level 15.85cm, 18.8??; At 12:42, outer sphere water 
+level 20.36cm, temperature 19.8??.
+pure water machine 5.09M|?*cm
+2017-12-17 cloudy:
+I enter the workplace at 8:27. Stop the phy run 453 at 8:37, start the ped run 454 
+at 8:38, stop the ped run 454 at 8:40, start the phy sun 455 at 8:46.
+Water resistance: Det1 20.1??, 2.27 M|?*cm;Det2 20.1??, 2.23 M|?*cm
+Connect ultrasonic detector:
+At 8:30, Inner sphere LS level 15.84cm, 18.8??; At 8:35, outer sphere water level 
+20.36cm, temperature 19.8??.
+pure water machine 5.13M|?*cm
+2017-12-18 cloudy:
+I enter the workplace at 12:34. Stop the phy run 455 at 12:44, start the ped run 
+456 at 12:46, stop the ped run 456 at 12:47, start the phy sun 457 at 12:51.
+Water resistance: Det1 20.1??, 2.26 M|?*cm;Det2 20.1??, 2.25 M|?*cm
+Connect ultrasonic detector:
+At 12:43, Inner sphere LS level 15.84cm, 18.8??; At 12:39, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.16M|?*cm
+2017-12-19 sunny:
+I enter the workplace at 12:41. Stop the phy run 457 at 12:49, start the ped run 
+458 at 12:50, stop the ped run 458 at 12:51, start the phy sun 459 at 12:56.
+Water resistance: Det1 20.1??, 2.31 M|?*cm;Det2 20.1??, 2.16 M|?*cm
+Connect ultrasonic detector:
+At 12:44, Inner sphere LS level 15.84cm, 18.8??; At 12:48, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.18M|?*cm
+2017-12-20 sunny:
+I enter the workplace at 12:40. Stop the phy run 459 at 12:48, start the ped run 
+460 at 12:49, stop the ped run 460 at 12:50, start the phy sun 461 at 12:53.
+Water resistance: Det1 20.2??, 2.32 M|?*cm;Det2 20.2??, 2.24 M|?*cm
+Connect ultrasonic detector:
+At 12:46, Inner sphere LS level 15.84cm, 18.8??; At 12:42, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.16M|?*cm
+2017-12-21 sunny:
+I enter the workplace at 14:45. Stop the phy run 461 at 14:53, start the ped run 
+462 at 12:54, stop the ped run 462 at 14:55, start the phy sun 463 at 14:58.
+Water resistance: Det1 20.2??, 2.30 M|?*cm;Det2 20.2??, 2.22 M|?*cm
+Connect ultrasonic detector:
+At 14:48, Inner sphere LS level 15.84cm, 18.8??; At 14:52, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.13M|?*cm
+2017-12-22 sunny:
+I enter the workplace at 13:03. Stop the phy run 463 at 13:13, start the ped run 
+464 at 13:14, stop the ped run 464 at 13:15, start the phy sun 465 at 13:18.
+Water resistance: Det1 20.2??, 2.31 M|?*cm;Det2 20.2??, 2.25 M|?*cm
+Connect ultrasonic detector:
+At 13:12, Inner sphere LS level 15.83cm, 18.8??; At 13:06, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.10M|?*cm
+2017-12-23 sunny:
+I enter the workplace at 8:40. Stop the phy run 465 at 16:08, start the ped run 466 
+at 16:09, stop the ped run 466 at 16:10, start the ped sun 467 at 16:12.
+Water resistance: Det1 20.2??, 2.32 M|?*cm;Det2 20.2??, 2.24 M|?*cm
+Connect ultrasonic detector:
+At 8:44, Inner sphere LS level 15.83cm, 18.8??; At 8:48, outer sphere water level 
+20.35cm, temperature 19.8??.
+pure water machine 5.09M|?*cm
+2017-12-24 sunny:
+I enter the workplace at 15:35. Stop the ped run 467 at 15:42, start the phy run 
+468 at 15:48
+Water resistance: Det1 20.2??, 2.29 M|?*cm;Det2 20.2??, 2.25 M|?*cm
+Connect ultrasonic detector:
+At 15:41, Inner sphere LS level 15.84cm, 18.8??; At 15:38, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 5.04M|?*cm
+2017-12-25 sunny:
+I enter the workplace at 10:13. Stop the phy run 468 at 10:21, start the ped run 
+469 at 10:22, stop the ped run 469 at 10:23, start the phy sun 470 at 10:26.
+Water resistance: Det1 20.2??, 2.29 M|?*cm;Det2 20.2??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 10:16, Inner sphere LS level 15.84cm, 18.8??; At 10:20, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 4.99M|?*cm
+2017-12-26 sunny:
+I enter the workplace at 14:36. Stop the phy run 470 at 14:44, start the ped run 
+471 at 14:45, stop the ped run 471 at 14:46, start the phy sun 472 at 14:48.
+Water resistance: Det1 20.2??, 2.31 M|?*cm;Det2 20.2??, 2.15 M|?*cm
+Connect ultrasonic detector:
+At 14:42, Inner sphere LS level 15.84cm, 18.8??; At 14:39, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 4.99M|?*cm
+2017-12-27 sunny:
+I enter the workplace at 12:43. Stop the phy run 472 at 12:45, start the ped run 
+473 at 12:52, stop the ped run 473 at 12:53, phy run 474-481 all stop abruptly, 
+start the phy sun 482 at 13:01.
+Water resistance: Det1 20.2??, 2.26 M|?*cm;Det2 20.2??, 2.20 M|?*cm
+Connect ultrasonic detector:
+At 12:47, Inner sphere LS level 15.83cm, 19.0??; At 12:50, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.86M|?*cm
+2017-12-28 sunny:
+I enter the workplace at 14:23. Stop the phy run 482 at 14:26, start the ped run 
+483 at 14:32, stop the ped run 483 at 14:33, start the phy sun 484 at 14:35.
+Water resistance: Det1 20.2??, 2.28 M|?*cm;Det2 20.2??, 2.22 M|?*cm
+Connect ultrasonic detector:
+At 14:31, Inner sphere LS level 15.84cm, 19.0??; At 14:28, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.80M|?*cm
+2017-12-29 sunny:
+I enter the workplace at 16:08. Stop the phy run 484 at 15:14, start the ped run 
+485 at 15:27, stop the ped run 485 at 15:28隆锚隆搂including ped run 486 due to flase 
+software setup隆锚?, start the phy sun 489 at 15:33(phy run 487 488 stop abruptly 
+due to trigger time difference).
+Water resistance: Det1 20.2??, 2.28 M|?*cm;Det2 20.2??, 2.21 M|?*cm
+Connect ultrasonic detector:
+At 16:23, Inner sphere LS level 15.83cm, 19.0??; At 16:26, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.75M|?*cm
+2017-12-30 cloudy:
+earthquake at 12:30
+I enter the workplace at 14:20. Stop the phy run 489 at 14:24, start the ped run 
+490 at 14:34, stop the ped run 490 at 14:35, start the phy sun 491 at 14:38.
+Water resistance: Det1 20.2??, 2.29 M|?*cm;Det2 20.2??, 2.17 M|?*cm
+Connect ultrasonic detector:
+At 14:33, Inner sphere LS level 15.83cm, 19.0??; At 14:26, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.70M|?*cm
+2017-12-31 sunny:
+I enter the workplace at 15:00. Stop the phy run 491 at 15:03, start the ped run 
+492 at 15:10, stop the ped run 492 at 15:11, start the phy sun 493 at 15:14.
+Water resistance: Det1 20.3??, 2.32 M|?*cm;Det2 20.3??, 2.26 M|?*cm
+Connect ultrasonic detector:
+At 15:05, Inner sphere LS level 15.83cm, 19.0??; At 15:08, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.65M|?*cm
+2018-01-01 sunny:
+Visit of ministry of foreign affairs
+I enter the workplace at 12:30. Stop the phy run 493 at 12:33, start the ped run 
+494 at 15:39, stop the ped run 494 at 12:40, start the phy sun 495 at 12:43.
+Water resistance: Det1 20.2??, 2.31 M|?*cm;Det2 20.3??, 2.21 M|?*cm
+Connect ultrasonic detector:
+At 12:38, Inner sphere LS level 15.83cm, 19.0??; At 12:35, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.62M|?*cm
+2018-01-02 sunny:
+I enter the workplace at 12:42. Stop the phy run 495 at 12:43, start the ped run 
+496 at 12:51, stop the ped run 496 at 12:52, start the phy sun 497 at 12:53.
+Water resistance: Det1 20.3??, 2.29 M|?*cm;Det2 20.3??, 2.27 M|?*cm
+Connect ultrasonic detector:
+At 12:47, Inner sphere LS level 15.83cm, 19.0??; At 12:50, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.54M|?*cm
+2018-01-03 rainy:
+I enter the workplace at 12:48. Stop the phy run 497 at 12:51, start the ped run 
+498 at 12:56, stop the ped run 498 at 12:57, start the phy sun 499 at 13:00.
+Water resistance: Det1 20.3??, 2.25 M|?*cm;Det2 20.3??, 2.29 M|?*cm
+Connect ultrasonic detector:
+At 12:56, Inner sphere LS level 15.84cm, 19.0??; At 12:53, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.47M|?*cm
+2018-01-04 sunny:
+I enter the workplace at 14:14. Stop the phy run 499 at 14:15, start the ped run 
+500 at 14:22, stop the ped run 500 at 14:23, start the phy sun 501 at 14:26.
+Water resistance: Det1 20.3??, 2.25 M|?*cm;Det2 20.3??, 2.28 M|?*cm
+Connect ultrasonic detector:
+At 14:18, Inner sphere LS level 15.83cm, 19.0??; At 14:21, outer sphere water 
+level 20.35cm, temperature 20.0??.
+pure water machine 4.45M|?*cm
+2018-01-05 sunny and windy:
+I enter the workplace at 8:34. Stop the phy run 501 at 8:34, start the ped run 502 
+at 8:41, stop the ped run 502 at 8:42, start the phy sun 503 at 8:46.
+Water resistance: Det1 20.3??, 2.24 M|?*cm;Det2 20.3??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 8:40, Inner sphere LS level 15.82cm, 19.0??; At 8:37, outer sphere water level 
+20.35cm, temperature 20.0??.
+pure water machine 4.38M|?*cm
+2018-01-06 sunny:
+I enter the workplace at 8:27. Stop the phy run 503 at 8:29, start the ped run 504 
+at 8:36, stop the ped run 504 at 8:37, start the phy sun 505 at 8:40.
+Water resistance: Det1 20.3??, 2.23 M|?*cm;Det2 20.3??, 2.27 M|?*cm
+Connect ultrasonic detector:
+At 8:31, Inner sphere LS level 15.83cm, 19.0??; At 8:35, outer sphere water level 
+20.35cm, temperature 20.0??.
+pure water machine 4.32M|?*cm
+2018-01-07 sunny:
+I enter the workplace at 8:24. Stop the phy run 505 at 8:25, start the ped run 506 
+at 8:32, stop the ped run 506 at 8:33, start the phy sun 507 at 8:36.
+Water resistance: Det1 20.3??, 2.21 M|?*cm;Det2 20.3??, 2.17 M|?*cm
+Connect ultrasonic detector:
+At 8:31, Inner sphere LS level 15.83cm, 19.0??; At 8:28, outer sphere water level 
+20.35cm, temperature 20.0??.
+pure water machine 4.25M|?*cm
+2018-01-08 sunny:
+I enter the workplace at 8:16. Stop the phy run 507 at 8:17, start the ped run 508 
+at 8:23, stop the ped run 508 at 8:24, start the phy sun 509 at 8:27.
+Water resistance: Det1 20.3??, 2.22 M|?*cm;Det2 20.3??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 8:19, Inner sphere LS level 15.84cm, 19.0??; At 8:22, outer sphere water level 
+20.35cm, temperature 20.0??.
+pure water machine 4.19M|?*cm
+2018-01-09 sunny:
+I enter the workplace at 12:46. Stop the phy run 509 at 12:47, start the ped run 
+510 at 12:53, stop the ped run 510 at 12:54, start the phy sun 511 at 12:57.
+Water resistance: Det1 20.3??, 2.20 M|?*cm;Det2 20.3??, 2.17 M|?*cm
+Connect ultrasonic detector:
+At 12:52, Inner sphere LS level 15.83cm, 19.0??; At 12:49, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 4.12M|?*cm
+2018-01-10 sunny:
+I enter the workplace at 12:49. Stop the phy run 511 at 12:50, start the ped run 
+512 at 12:57, stop the ped run 512 at 12:58, start the phy sun 513 at 13:00.
+Water resistance: Det1 20.3??, 2.19 M|?*cm;Det2 20.3??, 2.13 M|?*cm
+Connect ultrasonic detector:
+At 12:53, Inner sphere LS level 15.83cm, 19.0??; At 12:56, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 4.04M|?*cm
+2018-01-11 cloudy:
+I enter the workplace at 10:59. Stop the phy run 513 at 11:00, start the ped run 
+514 at 11:05, stop the ped run 514 at 11:06, start the phy sun 515 at 11:09.
+Water resistance: Det1 20.3??, 2.18 M|?*cm;Det2 20.3??, 2.15 M|?*cm
+Connect ultrasonic detector:
+At 11:05, Inner sphere LS level 15.83cm, 19.0??; At 11:02, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 3.96M|?*cm
+2018-01-12 sunny:
+I enter the workplace at 11:11. Stop the phy run 515 at 11:12, start the ped run 
+516 at 11:18, stop the ped run 516 at 11:19, start the phy sun 517 at 11:22.
+Water resistance: Det1 20.3??, 2.20 M|?*cm;Det2 20.3??, 2.13 M|?*cm
+Connect ultrasonic detector:
+At 11:15, Inner sphere LS level 15.83cm, 19.0??; At 11:17, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 3.88M|?*cm
+2018-01-13 sunny:
+I enter the workplace at 12:49. Stop the phy run 517 at 12:50, start the ped run 
+518 at 12:57, stop the ped run 518 at 12:58, start the phy sun 519 at 13:00.
+Water resistance: Det1 20.3??, 2.16 M|?*cm;Det2 20.3??, 2.15 M|?*cm
+Connect ultrasonic detector:
+At 12:57, Inner sphere LS level 15.83cm, 19.0??; At 12:53, outer sphere water 
+level 20.35cm, temperature 19.8??.
+pure water machine 3.82M|?*cm
+2018-01-14 sunny:
+I enter the workplace at 8:22. Stop the phy run 519 at 8:23, start the ped run 520 
+at 8:30, stop the ped run 520 at 8:31, start the phy sun 521 at 8:33.
+Water resistance: Det1 20.3??, 2.16 M|?*cm;Det2 20.3??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 8:26, Inner sphere LS level 15.84cm, 19.0??; At 8:29, outer sphere water level 
+20.35cm, temperature 19.8??.
+2018-01-15 sunny:
+I enter the workplace at 8:19. Stop the phy run 521 at 8:19, start the ped run 522 
+at 8:25, stop the ped run 522 at 8:26, start the phy sun 523 at 8:29.
+Water resistance: Det1 20.3??, 2.14 M|?*cm;Det2 20.3??, 2.11 M|?*cm
+Connect ultrasonic detector:
+At 8:24, Inner sphere LS level 15.83cm, 19.0??; At 8:22, outer sphere water level 
+20.35cm, temperature 19.8??.
+pure water machine 3.71M|?*cm
+2018-01-16 sunny:
+I enter the workplace at 8:25. Stop the phy run 523 at 8:26, start the ped run 524 
+at 8:32, stop the ped run 524 at 8:33, start the phy sun 525 at 8:35.
+Water resistance: Det1 20.3??, 2.15 M|?*cm;Det2 20.3??, 2.19 M|?*cm
+Connect ultrasonic detector:
+At 8:28, Inner sphere LS level 15.83cm, 19.0??; At 8:31, outer sphere water level 
+20.35cm, temperature 19.8??.
+pure water machine 3.71M|?*cm
+Close the water cycle at about 9:00.
+
+--------------
+shift begins 
+Shifter 	 :  Wei Dou
+Shift time :  2018-01-18 to 2018-02-09 (Some detail of operating mistakes is 
+illustrated mainly in 01-19)
+---------------
+2018-01-18 sunny:
+
+I reach Jinping at 3 pm and waiting to get the network IP, at 8 pm Jinjing Li 
+guided me by using my computer.
+I stop the phy run 527 at 20:03. Start the ped run 526 at 20:04. Stop the ped run 
+526 at 20:05. Start the phy run 527 at 20:07.
+The parameters of water resistance is unmeasured. I do not get into the work 
+today.
+
+2018-01-19 sunny:
+I enter the workplace at 13:20. Lei Guo guide me how to measure. Stop the phy 
+run 527 at 13:23, start the ped run 528 at 13:52, stop the ped run 528 at 13:55, 
+start the phy sun 525 at 14:02.
+Water resistance: Det1 20.0??, 1.34 M|?*cm;Det2 20.1??, 1.37 M|?*cm
+Connect ultrasonic detector:
+At 13:31, Inner sphere LS level 15.86cm, 19.0??; At 13:33, outer sphere water 
+level 20.36cm, temperature 20.5??.
+The ultrasonic detectors are connected all the time. The power line and USB are 
+still connected. The measure software is closed. I am not sure whether they are 
+connected later(1.19 - 1.31).
+The ultrasonic detectors connect with inner sphere or outer sphere alternately 
+day by day. In other words, inner sphere is connected one day and the outer 
+sphere is connected the next day.
+
+2018-01-20 cloudy:
+I enter the workplace at 08:52. Stop the phy run 529 at 08:54, start the ped run 
+530 at 09:07, stop the ped run 530 at 9:09, start the phy sun 531 at 9:40.
+Water resistance: Det1 20.0??, 1.28 M|?*cm;Det2 20.0??, 1.24 M|?*cm
+Connect ultrasonic detector:
+At 08:58, Inner sphere LS level 15.83cm, 19.0??; At 09:01, outer sphere water 
+level 20.37cm, temperature 20.7??.
+note:
+16:20 something bomb but no earthquake report
+
+2018-01-21 sunny:
+I enter the workplace at 08:32. Stop the phy run 531 at 08:36, start the ped run 
+532 at 08:47, stop the ped run 532 at 08:49, start the phy sun 533 at 08:55.
+Water resistance: Det1 20.0??, 1.17 M|?*cm;Det2 20.0??, 1.21 M|?*cm
+Connect ultrasonic detector:
+At 08:41, Inner sphere LS level 15.88cm, 23.5??; At 08:44, outer sphere water 
+level 20.35cm, temperature 23.5??.
+
+2018-01-22 sunny: 
+I enter the workplace at 08:20. Stop the phy run 533 at 08:22, start the ped run 
+534 at 08:29, stop the ped run 534 at 08:30, start the phy sun 535 at 08:35.
+Water resistance: Det1 19.9??, 1.12 M|?*cm;Det2 20.0??, 1.14 M|?*cm
+Connect ultrasonic detector:
+At 08:23, Inner sphere LS level 15.86cm, 23.2??; At 08:28, outer sphere water 
+level 20.37cm, temperature 22.8??.
+
+2018-01-23 sunny:
+I enter the workplace at 08:34. Stop the phy run 535 at 08:37, start the ped run 
+536 at 08:43, stop the ped run 536 at 08:47, start the phy sun 537 at 08:51.
+Water resistance: Det1 19.9??, 1.06 M|?*cm;Det2 19.9??, 1.10 M|?*cm
+Connect ultrasonic detector:
+At 08:34, Inner sphere LS level 15.90cm, 18.8??; At 08:43, outer sphere water 
+level 20.36cm, temperature 23.1??.
+
+2018-01-24 sunny:
+I enter the workplace at 08:17. Stop the phy run 537 at 08:20, start the ped run 
+538 at 08:43, stop the ped run 538 at 08:47, start the phy sun 539 at 08:51.
+Water resistance: Det1 19.8??, 1.01 M|?*cm;Det2 19.9??, 1.02 M|?*cm
+Connect ultrasonic detector:
+At 08:41, Inner sphere LS level 15.88cm, 22.8??; At 08:44, outer sphere water 
+level 20.39cm, temperature 22.8??.
+
+2018-01-25 sunny:
+I enter the workplace at 08:27. Stop the phy run 539 at 08:29, start the ped run 
+540 at 08:36, stop the ped run 540 at 08:38, start the phy sun 541 at 08:42.
+Water resistance: Det1 19.8??, 0.98 M|?*cm;Det2 19.8??, 0.98 M|?*cm
+Connect ultrasonic detector:
+At 08:29, Inner sphere LS level 15.92cm, 18.8??; At 08:44, outer sphere water 
+level 20.39cm, temperature 19.5??.
+
+2018-01-26 sunny: 
+I enter the workplace at 08:40. Stop the phy run 541 at 08:41, start the ped run 
+542 at 08:48, stop the ped run 542 at 08:50, start the phy sun 543 at 08:55.
+Water resistance: Det1 19.7??, 0.94 M|?*cm;Det2 19.8??, 0.93 M|?*cm
+Connect ultrasonic detector:
+At 08:42, Inner sphere LS level 15.89cm, 19.5??; At 08:44, outer sphere water 
+level 20.40cm, temperature 22.8??.
+
+2018-01-27 sunny: 
+I enter the workplace at 11:02. Stop the phy run 543 at 11:04, start the ped run 
+544 at 11:09, stop the ped run 544 at 11:11, start the phy sun 545 at 11:15.
+Water resistance: Det1 19.7??, 0.92 M|?*cm;Det2 19.8??, 0.96 M|?*cm
+Connect ultrasonic detector:
+At 11:05, Inner sphere LS level 15.93cm, 18.8??; At 11:08, outer sphere water 
+level 20.40cm, temperature 24.2??.
+
+2018-01-28 sunny:
+I enter the workplace at 08:41. Stop the phy run 545 at 08:43, start the ped run 
+546 at 08:48, stop the ped run 546 at 08:50, start the phy sun 547 at 08:53.
+Water resistance: Det1 19.7??, 0.89 M|?*cm;Det2 19.7??, 0.86 M|?*cm
+Connect ultrasonic detector:
+At 08:43, Inner sphere LS level 15.90cm, 19.5??; At 08:48, outer sphere water 
+level 20.40cm, temperature 22.8??.
+
+2018-01-29 sunny:
+I enter the workplace at 08:28. Stop the phy run 547 at 08:29, start the ped run 
+548 at 08:34, stop the ped run 548 at 08:35, start the phy sun 549 at 08:38.
+Water resistance: Det1 19.7??, 0.88 M|?*cm;Det2 19.7??, 0.91 M|?*cm
+Connect ultrasonic detector:
+At 08:29, Inner sphere LS level 15.94cm, 18.5??; At 08:33, outer sphere water 
+level 20.40cm, temperature 23.0??.
+
+2018-01-30 sunny:
+I enter the workplace at 08:47. Stop the phy run 549 at 08:49, start the ped run 
+550 at 08:54, stop the ped run 550 at 08:56, start the phy sun 551 at 08:58.
+Water resistance: Det1 19.6??, 0.85 M|?*cm;Det2 19.6??, 0.80 M|?*cm
+Connect ultrasonic detector:
+At 08:50, Inner sphere LS level 15.92cm, 22.5??; At 08:53, outer sphere water 
+level 20.41cm, temperature 19.5??.
+
+2018-01-31 sunny -> cloudy:
+I enter the workplace at 08:47. Stop the phy run 551 at 08:48, start the ped run 
+552 at 08:53, stop the ped run 552 at 08:55, start the phy sun 553 at 08:57.
+Water resistance: Det1 19.6??, 0.84 M|?*cm;Det2 19.6??, 0.88 M|?*cm
+Connect ultrasonic detector:
+At 08:49, Inner sphere LS level 15.94cm, 18.5??; At 08:53, outer sphere water 
+level 20.40cm, temperature 23.0??.
+cut off the ultrasonic at 14:24.
+
+2018-02-01 cloudy:
+I enter the workplace at 07:57. Stop the phy run 553 at 08:28, start the ped run 
+554 at 08:35, stop the ped run 554 at 08:37, start the phy sun 555 at 08:40.
+Water resistance: Det1 19.6??, 0.82 M|?*cm;Det2 19.6??, 0.81 M|?*cm
+Connect ultrasonic detector:
+At 08:30, Inner sphere LS level 15.95cm, 18.5??; At 08:33, outer sphere water 
+level 20.40cm, temperature 19.2??.
+
+2018-02-02 cloudy:
+I enter the workplace at 08:27. Stop the phy run 555 at 08:30, start the ped run 
+556 at 08:36, stop the ped run 556 at 08:38, start the phy sun 557 at 08:41.
+Water resistance: Det1 19.5??, 0.81 M|?*cm;Det2 19.5??, 0.79 M|?*cm
+Connect ultrasonic detector:
+At 08:32, Inner sphere LS level 15.96cm, 18.5??; At 08:35, outer sphere water 
+level 20.41cm, temperature 19.2??.
+
+2018-02-03 cloudy:
+I enter the workplace at 08:42. Stop the phy run 557 at 08:45, start the ped run 
+558 at 08:51, stop the ped run 558 at 08:53, start the phy sun 559 at 08:41.
+Water resistance: Det1 19.5??, 0.80 M|?*cm;Det2 19.5??, 0.77 M|?*cm
+Connect ultrasonic detector:
+At 08:46, Inner sphere LS level 15.96cm, 18.2??; At 08:49, outer sphere water 
+level 20.41cm, temperature 19.2??.
+
+2018-02-04 cloudy:
+I enter the workplace at 08:48. Stop the phy run 559 at 08:50, start the ped run 
+560 at 08:57, stop the ped run 560 at 08:59, start the phy sun 561 at 09隆锚o03.
+Water resistance: Det1 19.5??, 0.78 M|?*cm;Det2 19.5??, 0.73 M|?*cm
+Connect ultrasonic detector:
+At 08:52, Inner sphere LS level 15.96cm, 18.5??; At 08:56, outer sphere water 
+level 20.41cm, temperature 19.2??.
+
+2018-02-05 cloudy:
+I enter the workplace at 08:44. Stop the phy run 561 at 08:46, start the ped run 
+562 at 08:52, stop the ped run 562 at 08:53, start the phy sun 563 at 08隆锚o56.
+Water resistance: Det1 19.4??, 0.77 M|?*cm;Det2 19.4??, 0.72 M|?*cm
+Connect ultrasonic detector:
+At 08:47, Inner sphere LS level 15.97cm, 19.2??; At 08:50, outer sphere water 
+level 20.42cm, temperature 19.0??.
+
+2018-02-06 cloudy:
+I enter the workplace at 08:37. Stop the phy run 563 at 08:40, start the ped run 
+564 at 08:46, stop the ped run 564 at 08:47, start the phy sun 565 at 08隆锚o50.
+Water resistance: Det1 19.4??, 0.76 M|?*cm;Det2 19.4??, 0.69 M|?*cm
+Connect ultrasonic detector:
+At 08:39, Inner sphere LS level 15.97cm, 18.2??; At 08:43, outer sphere water 
+level 20.41cm, temperature 19.2??.
+ 
+2018-02-07 cloudy:
+I enter the workplace at 08:42. Stop the phy run 565 at 08:44, start the ped run 
+566 at 08:50, stop the ped run 566 at 08:51, start the phy sun 567 at 08隆锚o53.
+Water resistance: Det1 19.4??, 0.75 M|?*cm;Det2 19.4??, 0.68 M|?*cm
+Connect ultrasonic detector:
+At 08:45, Inner sphere LS level 15.97cm, 18.2??; At 08:48, outer sphere water 
+level 20.42cm, temperature 19.2??.
+
+2018-02-08 cloudy:
+I enter the workplace at 13:28. Stop the phy run 567 at 13:30, start the ped run 
+568 at 14:18, stop the ped run 568 at 14:20, start the phy sun 569 at 14:34.
+Water resistance: Det1 19.3??, 0.73 M|?*cm;Det2 19.4??, 0.65 M|?*cm
+Connect ultrasonic detector:
+At 14:12, Inner sphere LS level 15.98cm, 18.8??; At 14:16, outer sphere water 
+level 20.43cm, temperature 19.0??.
+Ped run 568 trigger rate is 30.9261/s, phy run 569 trigger rate is 9.5794/s.
+
+2018-02-09 cloudy -> sunny:
+I enter the workplace at 16:00. Stop the phy run 569 at 16:05, start the ped run 
+570 at 16:16, stop the ped run 570 at 16:19, start the phy sun 571 at 17:20.
+Water resistance: Det1 19.3??, 0.71 M|?*cm;Det2 19.4??, 0.62 M|?*cm
+Connect ultrasonic detector:
+At 16:10, Inner sphere LS level 15.99cm, 18.2??; At 16:14, outer sphere water 
+level 20.43cm, temperature 19.2??.
+Ped run 570 trigger rate is 29.962/s, phy run 571 trigger rate is 9.57897/s.
+Network speed recovered at about 19:00.
+
+2018-02-10 sunny
+Because of traffic control, I leave Jinping at 06:00 without getting into work 
+space.
+
+--------------
+shift begins 
+Shifter 	 :  Luo Wentai
+Shift time :  2018-02-26 to 2018-04-02 
+---------------
+2.26	Sunny
+8:35 Stop physics run 593
+8:40 Check water resistance and ultrasonic detector
+9:00 Test pedestal run 594
+9:02 Start pedestal run 595 
+9:05 Stop pedestal run 595
+9:10 Start physics run 596
+
+2.27 Sunny
+10:00 Stop physics run 596
+10:01  Check water resistance and ultrasonic detector
+10:14 Start pedestal run 597
+10:17 Stop pedestal run 597
+10:19 Start physics run 598
+
+2.28 Sunny
+8:23 Stop physics run 598
+8:24 Check water resistance and ultrasonic detector
+8:30 Start pedestal run 599
+8:33 Stop pedestal run 599
+8:36 Start physics run 600
+
+3.01 Sunny
+9:08 Stop physics run 600
+9:09 Check water resistance and ultrasonic detector
+9:13 Start pedestal run 601
+9:16 Stop pedestal run 601
+9:18 Start physics run 602
+
+3.02 Sunny
+13:23 Stop physics run 602
+13:24 Check water resistance and ultrasonic detector
+13:29 Start pedestal run 603
+13:32 Stop pedestal run 603
+13:34 Start physics run 604
+
+3.03 Sunny
+8:38 Stop physics run 604
+8:39 Check water resistance and ultrasonic detector
+8:44 Start pedestal run 605
+8:47 Stop pedestal run 605
+8:49 Start physics run 606
+
+3.04 Sunny
+8:42 Stop physics run 606
+8:43 Check water resistance and ultrasonic detector
+8:49 Start pedestal run 607
+8:52 Stop pedestal run 607
+8:54 Start physics run 608
+
+3.05 Sunny
+8:28 Stop physics run 608
+8:29 Check water resistance and ultrasonic detector
+8:34 Start pedestal run 609
+8:37 Stop pedestal run 609
+8:39 Start physics run 610
+
+3.06 Cloudy
+run 610 broken  reason:	The trigger time of board 2 is different than that of 
+board0 by 1.71799e+10 ns
+8:24 Check water resistance and ultrasonic detector
+8:32 Start pedestal run 611
+8:35 Stop pedestal run 611
+8:37 Start physics run 612
+
+3.07 Rainy
+8:20 Stop physics run 612
+wrong operation: start physics run 613 and stop it immediately
+8:21 Check water resistance and ultrasonic detector
+8:27 Start pedestal run 614
+8:30 Stop pedestal run 614
+8:32 Start physics run 615
+
+3.08 Rainy
+8:18 Stop physics run 615
+8:19 Check water resistance and ultrasonic detector
+8:23 Start pedestal run 616
+8:26 Stop pedestal run 616
+8:29 Start physics run 617
+
+3.09 Rainy
+8:26 Stop physics run 617
+8:26 Check water resistance and ultrasonic detector
+8:31 wrong operation: start pedestal run 618 and stop it immediately
+8:32 Start pedestal run 619
+8:35 Stop pedestal run 619
+8:36 wrong operation: forget to modified the physics run, start pedestal run 620 
+and stop it immediately
+8:39 Start physics run 621
+
+3.10 Rainy
+run 621 broken  reason:	The trigger time of board 2 is different than that of 
+board0 by -5.97477e+09 ns
+11:06 Check water resistance and ultrasonic detector
+11:14 Start pedestal run 622
+11:17 Stop pedestal run 622
+11:20 Start physics run 623
+
+3.11 Rainy
+12:53 Stop physics run 623
+12:54 Check water resistance and ultrasonic detector
+12:57 Start pedestal run 624
+13:00 Stop pedestal run 624
+13:03 Start physics run 625
+
+3.12 Sunny
+11:10 Stop physics run 625
+11:10 Check water resistance and ultrasonic detector
+11:18 Start pedestal run 626
+11:21 Stop pedestal run 626
+11:24 Start physics run 627
+
+3.13 Sunny
+8:24 Stop physics run 627
+8:24 Check water resistance and ultrasonic detector
+Because of the air-conditioning closed, temperature was higher than normal 
+level
+8:30 Start pedestal run 628
+8:34 Stop pedestal run 628
+8:36 Start physics run 629
+
+3.14 Rainy
+run 629 broken  reason:	The trigger time of board 1 is different than that of 
+board0 by 1.71799e+10 ns
+8:18 Check water resistance and ultrasonic detector
+8:24 Start pedestal run 630
+8:27 Stop pedestal run 630
+8:30 Start physics run 631
+
+3.15 Sunny
+8:23 Stop physics run 631
+8:23 Check water resistance and ultrasonic detector
+8:27 Start pedestal run 632
+8:30 Stop pedestal run 632
+8:32 Start physics run 633
+
+3.16 Sunny
+11:02 Stop physics run 633
+11:02 Check water resistance and ultrasonic detector
+11:06 Start pedestal run 634
+11:09 Stop pedestal run 634
+11:12 Start physics run 635
+
+3.17 Sunny
+run 635 broken  reason:	The trigger time of board 2 is different than that of 
+board0 by -1.48017e+10 ns
+8:24 Check water resistance and ultrasonic detector
+8:30 Start pedestal run 636
+8:34 Stop pedestal run 636
+8:36 Start physics run 637
+
+3.18 Sunny
+16:41 Stop physics run 637
+16:41 Check water resistance and ultrasonic detector
+16:45 Start pedestal run 638
+16:47 Stop pedestal run 638
+16:49 Start physics run 639
+
+3.19 Sunny
+12:42 Stop physics run 639
+12:42 Check water resistance and ultrasonic detector
+12:46 Start pedestal run 640
+12:49 Stop pedestal run 640
+12:51 Start physics run 641
+
+3.20 Sunny
+14:25 Stop physics run 641
+14:25 Check water resistance and ultrasonic detector
+14:30 Start pedestal run 642
+14:33 Stop pedestal run 642
+14:35 Start physics run 643
+
+3.21 Sunny
+12:39 Stop physics run 643
+12:39 Check water resistance and ultrasonic detector
+12:43 Start pedestal run 644
+12:46 Stop pedestal run 644
+12:48 Start physics run 645
+
+3.22 Sunny
+8:26 Stop physics run 645
+8:26 Check water resistance and ultrasonic detector
+8:31 Start pedestal run 646
+8:34 Stop pedestal run 646
+8:36 Start physics run 647
+
+3.23 Sunny
+8:21 Stop physics run 647
+8:21 Check water resistance and ultrasonic detector
+8:25 Start pedestal run 648
+8:28 Stop pedestal run 648
+8:30 Start physics run 649
+
+3.24 Sunny
+8:24 Stop physics run 649
+8:24 Check water resistance and ultrasonic detector
+8:29 Start pedestal run 650
+8:32 Stop pedestal run 650
+8:35 Start physics run 651
+
+3.25 Rainy
+8:22 Stop physics run 651
+8:22 Check water resistance and ultrasonic detector
+8:26 Start pedestal run 652
+8:29 Stop pedestal run 652
+8:31 Start physics run 653
+
+3.26 Rainy
+8:27 Stop physics run 653
+8:28 Check water resistance and ultrasonic detector
+8:32 Start pedestal run 654
+8:35 Stop pedestal run 654
+8:37 Start physics run 655
+
+3.27 Rainy
+8:18 Stop physics run 655
+8:18 Check water resistance and ultrasonic detector
+8:22 Start pedestal run 656
+8:25 Stop pedestal run 656
+8:28 Start physics run 657
+
+3.28 Rainy
+8:24 Stop physics run 657
+8:24 Check water resistance and ultrasonic detector
+8:29 Start pedestal run 658
+8:32 Stop pedestal run 658
+8:35 Start physics run 659
+
+3.29 Rainy
+8:42 Stop physics run 659
+8:42 Check water resistance and ultrasonic detector
+8:45 Start pedestal run 660
+8:48 Stop pedestal run 660
+8:50 Start physics run 661
+
+3.30 Rainy
+8:38 Stop physics run 661
+8:38 Check water resistance and ultrasonic detector
+8:41 Start pedestal run 662
+8:44 Stop pedestal run 662
+8:47 Start physics run 663
+
+3.31 Rainy
+8:18 Stop physics run 663
+8:18 Check water resistance and ultrasonic detector
+8:22 Start pedestal run 664
+8:25 Stop pedestal run 664
+8:28 Start physics run 665
+
+4.01 Sunny
+8:30 Stop physics run 665
+8:30 Check water resistance and ultrasonic detector
+8:34 Start pedestal run 666
+8:37 Stop pedestal run 666
+8:39 Start physics run 667
+
+4.02 Cloudy
+8:23 Stop physics run 667
+8:23 Check water resistance and ultrasonic detector
+8:27 Start pedestal run 668
+8:30 Stop pedestal run 668
+8:33 Start physics run 669
+
+run 669 broken  reason:	The trigger time of board 2 is different than that of 
+board0 by -6.42913e+09 ns
+
+16:26 wrong operation: start physics run 670 and run 671 (start physics run twice) 
+and stop them immediately
+16:27 Start physics run 672
+
+PS: Copy data until run 667
+
+--------------
+Shift begins 
+Shifter 	 :  Gun Ziyi
+Shift time :  2018-04-04 to 2018-05-03 
+-----------------
+2018.04.04 Sunny
+8:23 Stop physics run 672
+8:23 Check water resistance and ultrasonic detector
+8:44 Start pedestal run 673
+8:46 Stop pedestal run 673
+8:55 Start physics run 674
+
+2018.04.05 Cloudy
+8:47 Stop physics run 674
+8:47 Check water resistance and ultrasonic detector
+8:55 Start pedestal run 675
+8:57 Stop pedestal run 675
+8:59 Start physics run 676
+
+2018.04.06 Cloudy
+8:22 Stop physics run 676
+8:22 Check water resistance and ultrasonic detector
+8:31 Start pedestal run 677
+8:33 Stop pedestal run 677
+8:34 Start physics run 678
+
+2018.04.07 Cloudy
+8:43 Stop physics run 678
+8:43 Check water resistance and ultrasonic detector
+8:52 Start pedestal run 679
+8:53 Stop pedestal run 679
+8:54 Start physics run 680
+
+2018.04.08 Cloudy
+8:43 Stop physics run 680
+8:43 Check water resistance and ultrasonic detector
+8:52 Start pedestal run 681
+8:53 Stop pedestal run 681
+8:54 Start physics run 682
+
+2018.04.09 Sunny
+8:53 Stop physics run 682
+8:53 Check water resistance and ultrasonic detector
+9:00 Start pedestal run 683
+9:01 Stop pedestal run 683
+9:02 Start physics run 684
+
+2018.04.10 Sunny
+8:39 Stop physics run 684
+8:39 Check water resistance and ultrasonic detector
+8:47 Start pedestal run 685
+8:49 Stop pedestal run 685
+8:50 Start physics run 686
+
+2018.04.11 Sunny
+Data taking of Run 686 was terminated by Board 3 sync error.
+8:24 Stop physics run 686
+8:24 Check water resistance and ultrasonic detector
+8:32 Start pedestal run 687
+8:34 Stop pedestal run 687
+8:34 Start physics run 688
+
+2018.04.12 Sunny
+8:29 Stop physics run 688
+8:29 Check water resistance and ultrasonic detector
+8:37 Start pedestal run 689
+8:39 Stop pedestal run 689
+8:40 Start physics run 690
+
+2018.04.14 Sunny
+8:08 Stop physics run 690
+8:10 Start pedestal run 691
+8:11 Stop pedestal run 691
+8:11 Start physics run 692
+
+2018.04.15 Cloudy
+8:35 Stop physics run 692
+8:35 Check water resistance and ultrasonic detector
+8:45 Start pedestal run 693
+8:47 Stop pedestal run 693
+8:48 Start physics run 694
+
+2018.04.16 Sunny
+10:48 Stop physics run 694
+10:48 Check water resistance and ultrasonic detector
+10:55 Start pedestal run 695
+10:57 Stop pedestal run 695
+10:58 Start physics run 696
+
+2018.04.17 Sunny, but rain and thunder at 7:00pm
+8:34 Stop physics run 696
+8:34 Check water resistance and ultrasonic detector
+8:41 Start pedestal run 697
+8:43 Stop pedestal run 697
+8:43 Start physics run 698
+
+2018.04.18 Cloudy
+8:33 Stop physics run 698
+8:33 Check water resistance and ultrasonic detector
+8:40 Start pedestal run 699
+8:41 Stop pedestal run 699
+8:42 Start physics run 700
+
+2018.04.19
+Temperature is high due to the breakdown of Shanghai Jiaotong University air conditioner.
+8:16 Stop physics run 700
+8:16 Check water resistance and ultrasonic detector
+8:26 Start pedestal run 701
+8:27 Stop pedestal run 701
+8:27 Start physics run 702
+
+2018.04.20 Sunny, but rain and thunder at 7:00pm
+8:54 Stop physics run 702
+8:54 Check water resistance and ultrasonic detector
+9:06 Start pedestal run 703
+9:06 Stop pedestal run 703
+9:09 Start physics run 704
+
+2018.04.21 Sunny, but rain at 8:00pm
+8:58 Stop physics run 704
+8:58 Check water resistance and ultrasonic detector
+9:31 Start pedestal run 705
+9:32 Stop pedestal run 705
+9:32 Start physics run 706
+
+2018.04.22
+8:33 Stop physics run 706
+8:33 Check water resistance and ultrasonic detector
+8:39 Start pedestal run 707
+8:40 Stop pedestal run 707
+8:41 Start physics run 708
+
+2018.04.23
+8:31 Stop physics run 708
+8:31 Check water resistance and ultrasonic detector
+8:46 Start pedestal run 709
+8:47 Stop pedestal run 709
+8:48 Start physics run 710
+
+2018.04.24
+8:26 Stop physics run 710
+8:26 Check water resistance and ultrasonic detector
+8:31 Start pedestal run 711
+8:32 Stop pedestal run 711
+8:34 Start physics run 712
+
+2018.04.25
+Data taking was terminated by Board 1 sync error.
+8:11 Stop physics run 712
+8:11 Check water resistance and ultrasonic detector
+8:17 Start pedestal run 713
+8:18 Stop pedestal run 713
+8:20 Start physics run 714
+
+2018.04.26
+8:49 Stop physics run 714
+8:49 Check water resistance and ultrasonic detector
+8:55 Start pedestal run 715
+8:56 Stop pedestal run 715
+8:57 Start physics run 716
+
+2018.04.27
+8:46 Stop physics run 716
+8:46 Check water resistance and ultrasonic detector
+8:52 Start pedestal run 717
+8:53 Stop pedestal run 717
+8:54 Start physics run 718
+
+2018.04.28
+8:33 Stop physics run 718
+8:33 Check water resistance and ultrasonic detector
+8:40 Start pedestal run 719
+8:41 Stop pedestal run 719
+8:43 Start physics run 720
+
+2018.04.29
+8:33 Stop physics run 720
+8:33 Check water resistance and ultrasonic detector
+8:37 Start pedestal run 721
+8:37 Stop pedestal run 721
+8:39 Start physics run 722
+
+2018.04.30
+8:35 Stop physics run 722
+8:35 Check water resistance and ultrasonic detector
+8:41 Start pedestal run 723
+8:42 Stop pedestal run 723
+8:43 Start physics run 724
+Run 724 may be exposured to the environment light.
+
+2018.05.01
+8:41 Stop physics run 724
+8:41 Check water resistance and ultrasonic detector
+8:49 Start pedestal run 725
+8:50 Stop pedestal run 725
+8:51 Start physics run 726
+Run 726 may be exposured to the environment light.
+9:54 Stop physics run 726
+9:50 Turn on the pure water machine.
+10:54 Start physics run 727
+
+2018.05.02
+9:55 Stop physics run 727
+9:55 Check water resistance and ultrasonic detector
+10:01 Start pedestal run 728
+10:02 Stop pedestal run 728
+10:04 Start physics run 729
+
+2018.05.03
+9:11 Stop physics run 729
+9:11 Check water resistance and ultrasonic detector
+9:17 Start pedestal run 730
+9:18 Stop pedestal run 730
+9:20 Start physics run 731
+
+--------------------
+shift begins 
+Shifter    :  Zhao Lin
+Shift time :  2018.05.05 to 2018.06.01
+--------------------
+
+2018.05.05: Cloudy
+
+08:47 end Phy run 731
+Water resistance: Det1 09:52am, 19.6鈩�, 1.25M惟路cm; Det2 09:49am, 19.4鈩�, 1.03M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18.5鈩�, outer sphere water level 20.40cm, temperature 19.2鈩�.
+09:01 begin ped run 732
+09:04 end ped run 732
+09:17 begin phy run 733
+Rain in the afternoon at about 14:00 to 15:00
+
+2018.05.06: Sunny
+11:19 end phy run 733
+Water resistance: Det1: 19.6鈩�, 1.21M惟路cm; Det2 19.7鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+11:25 begin ped run 734
+11:26 end ped run 734
+11:30 begin phy run 735
+
+2018.05.07: Sunny
+08:30 end phy run 735
+Water resistance: Det1: 19.6鈩�, 1.17M惟路cm; Det2 19.7鈩�, 1.15M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.2鈩�.
+08:35 begin ped run 736
+08:37 end ped run 736
+08:39 begin phy run 737
+
+2018.05.08: Sunny
+08:28 end phy run 737
+Water resistance: Det1: 19.6鈩�, 1.17M惟路cm; Det2 19.6鈩�, 1.19M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+08:33 begin ped run 738
+08:35 end ped run 738
+08:40 Begin phy run 739
+
+
+2018.05.09: Sunny
+11:16 end phy run 739
+Water resistance: Det1: 19.6鈩�, 1.17M惟路cm; Det2 19.6鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18.0鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+11:20 begin ped run 740
+11:22 end ped run 740
+11:24 begin phy run 741
+
+2018.05.10: Sunny
+08:25 end phy run 741
+Water resistance: Det1: 19.5鈩�, 1.16M惟路cm; Det2 19.6鈩�, 1.15M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.0鈩�, outer sphere water level 20.41cm, temperature 19.8鈩�.
+08:38 begin ped run 742
+08:40 end ped run 742
+08:42 begin phy run 743
+
+2018.05.11: Sunny
+08:30 end phy run 743
+Water resistance: Det1: 19.5鈩�, 1.18M惟路cm; Det2 19.6鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.0鈩�, outer sphere water level 20.41cm, temperature 19鈩�.
+08:35 begin ped run 744
+08:37 end ped run 744
+08:40 begin phy run 745
+
+2018.05.12: Sunny
+11:35 end phy run 745
+11:35 begin ped run 746
+11:37 end ped run 746
+08:40 begin phy run 747
+
+2018.05.13: Rain
+14:32 end phy run 747
+Water resistance: Det1: 19.5鈩�, 1.18M惟路cm; Det2 19.5鈩�, 1.19M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 18.0鈩�, outer sphere water level 20.41cm, temperature 18.8鈩�.
+14:38 begin ped run 748
+14:40 end ped run 748
+14:42 begin phy run 749
+
+2018.05.14: sunny
+08:48 end phy run 749
+Water resistance: Det1: 19.5鈩�, 1.19M惟路cm; Det2 19.5鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 18.0鈩�, outer sphere water level 20.42cm, temperature 19.0鈩�.
+08:54 begin ped run 750
+08:58 end ped run 750
+09:00 begin phy run 751
+
+2018.05.15: sunny
+08:34 end phy run 751
+Water resistance: Det1: 19.5鈩�, 1.20M惟路cm; Det2 19.5鈩�, 1.18M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 18.0鈩�, outer sphere water level 20.42cm, temperature 18.8鈩�.
+08:39 begin ped run 752
+08:43 end ped run 752
+08:44 begin and end phy run 753 for mistake
+08:47 begin phy run 754
+
+
+2018.05.16: sunny
+11:18 end phy run 754
+Water resistance: Det1: 19.5鈩�, 1.18M惟路cm; Det2 19.5鈩�, 1.20M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 18.0鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+11:24 begin ped run 755
+11:26 end ped run 755
+11:28 begin phy run 756
+
+2018.05.17: sunny
+08:37 end phy run 756
+Water resistance: Det1: 19.6鈩�, 1.19M惟路cm; Det2 19.6鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+08:43 begin ped run 757
+08:48 end ped run 757
+08:50 begin phy run 758
+
+2018.05.18: sunny rainy
+09:19 end phy run 758
+Water resistance: Det1: 19.6鈩�, 1.18M惟路cm; Det2 19.6鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+09:24 begin ped run 759
+09:27 end ped run 759
+09:27 begin and end ped run 760
+09:28 begin phy run 761
+
+2018.05.19: sunny
+08:53 end phy run 761
+Water resistance: Det1: 19.6鈩�, 1.17M惟路cm; Det2 19.6鈩�, 1.16M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 18.8鈩�.
+08:58 begin ped run 762
+09:02 end ped run 762
+09:05 begin phy run 763
+
+2018.05.20: sunny
+09:44 end phy run 763
+Water resistance: Det1: 19.6鈩�, 1.18M惟路cm; Det2 19.6鈩�, 1.11M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.5鈩�.
+09:52 begin ped run 764
+09:58 end ped run 764
+09:59 begin phy run 765
+
+2018.05.21: sunny
+10:53 end phy run 765
+Water resistance: Det1: 19.7鈩�, 1.18M惟路cm; Det2 19.7鈩�, 1.13M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 18.5鈩�, outer sphere water level 20.40cm, temperature 19.0鈩�.
+10:58 begin ped run 766
+11:03 end ped run 766
+11:04 begin phy run 767
+
+2018.05.22: sunny
+08:48 end phy run 767
+Water resistance: Det1: 19.7鈩�, 1.16M惟路cm; Det2 19.7鈩�, 1.18M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 18.8鈩�.
+08:52 begin ped run 768
+08:56 end ped run 768
+08:57 begin phy run 769
+
+2018.05.23: cloudy
+10:46 end phy run 769
+Water resistance: Det1: 19.7鈩�, 1.16M惟路cm; Det2 19.7鈩�, 1.18M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+10:50 begin ped run 770
+10:52 end ped run 770
+10:54 begin phy run 771
+
+2018.05.24: sunny
+08:51 end phy run 771
+Water resistance: Det1: 19.7鈩�, 1.17M惟路cm; Det2 19.7鈩�, 1.17M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.2鈩�.
+08:58 begin and end phy run 772 by mistake
+09:03 begin ped run 773
+09:05 end ped run 773
+09:06 begin phy run 774
+
+2018.05.25: sunny
+08:45 end phy run 774
+Water resistance: Det1: 19.7鈩�, 1.16M惟路cm; Det2 19.8鈩�, 1.14M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.2鈩�, outer sphere water level 20.41cm, temperature 19.0鈩�.
+08:51 begin ped run 775
+08:54 end ped run 775
+08:55 begin phy run 776
+
+2018.05.26: rainy
+14:09 end phy run 776
+Water resistance: Det1: 19.8鈩�, 1.15M惟路cm; Det2 19.8鈩�, 1.15M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 18.5鈩�, outer sphere water level 20.30cm, temperature 19.2鈩�.
+14:18 begin ped run 777
+14:22 end ped run 777
+14:23 begin phy run 778
+
+2018.05.27: cloudy
+08:47 end phy run 778
+Water resistance: Det1: 19.8鈩�, 1.13M惟路cm; Det2 19.8鈩�, 1.15M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.96cm, 18.2鈩�, outer sphere water level 20.40cm, temperature 19.0鈩�.
+08:51 begin ped run 779
+08:54 end ped run 779
+08:55 begin phy run 780
+
+2018.05.28: cloudy
+08:28 end phy run 780
+Water resistance: Det1: 19.8鈩�, 1.15M惟路cm; Det2 19.8鈩�, 1.11M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.95cm, 18.5鈩�, outer sphere water level 20.39cm, temperature 19.2鈩�.
+08:33 begin ped run 781
+08:36 end ped run 781
+08:38 begin phy run 782
+
+2018.05.29: cloudy
+08:33 end phy run 782
+Water resistance: Det1: 19.9鈩�, 1.15M惟路cm; Det2 19.9鈩�, 1.14M惟路cm
+Connect ultrasonic detector. Inner sphere LS level 15.96cm, 18.8鈩�, outer sphere water level 20.39cm, temperature 19.2鈩�.
+08:52 to 08:56 begin and end ped run 783 without close ultrasonic detector
+08:57 to 09:00 begin and end phy run 784 without close ultrasonic detector
+09:02 begin ped run 785
+09:05 end ped run 785
+09:05 begin phy run 786
+
+2018.05.30: sunny
+14:36 end phy run 786
+14:36 begin ped run 787
+14:38 end ped run 787
+14:39 begin phy run 788
+
+2018.06.01: sunny
+13:39 end phy run 788
+13:40 begin ped run 789
+13:49 end ped run 789
+13:50 begin phy run 790
+
+
+--------------------
+shift begins 
+Shifter 	 :  Guo Lei
+Shift time :  2018.06.01 to 2018.07.01
+--------------------
+2018.06.01
+weather: Sunny 
+
+2018.06.02
+weather: Cloudy 
+At 9:06 Am
+water resisitity 1.03 and 1.06 
+inner tank liquid level 15.95 cm T: 18.5 
+outer tank liquid level 20.40 cm T: 19.8 
+
+2018.06.03
+weather: Cloudy 
+At 8:38 Am 
+water resisitity 1.01 and 0.98 
+inner tank liquid level 15.95 cm T: 18.5 
+outer tank liquid level 20.40 cm T: 19.2 
+
+2018.06.04
+weather: Rainy
+At 8:19 Am 
+water resisitity 1.01 and 1.02 
+inner tank liquid level 15.96 cm T: 18.2 
+outer tank liquid level 20.41 cm T: 19.0
+Trigger Rate : 28.84 /s
+
+2018.06.05
+weather: Sunny
+At 8:15 Am 
+water resisitity 0.96 and 0.95 
+inner tank liquid level 15.96 cm T: 18.5 
+outer tank liquid level 20.41 cm T: 19.2
+Trigger Rate : 28.68 /s
+
+2018.06.06
+weather: Sunny
+At 12:54 Am 
+water resisitity 0.95 and 0.94 
+inner tank liquid level 15.99 cm T: 18.2 
+outer tank liquid level 20.41 cm T: 19.2
+Trigger Rate : 30.67 /s
+
+2018.06.07
+weather: Sunny
+At 12:54 Am 
+water resisitity 0.91, T : 19.6  and 0.90 ,T:19.6 
+inner tank liquid level 16.00 cm T: 18.5 
+outer tank liquid level 20.41 cm T: 19.0
+Trigger Rate : 30.31 /s
+
+ 2018.06.08
+weather: Sunny and rainy
+At 12:50 Am 
+water resisitity 0.85, T : 19.6  and 0.74, T:19.6 
+inner tank liquid level 16.00 cm T: 18.5 
+outer tank liquid level 20.42 cm T: 19.2
+Trigger Rate : 30.23 /s
+
+ 2018.06.09
+weather: Sunny and rainy
+At 12:50 Am 
+water resisitity 0.88, T : 19.6  and 0.87, T:19.6 
+inner tank liquid level 16.00 cm T: 18.5 
+outer tank liquid level 20.42 cm T: 19.0
+Trigger Rate : 30.18 /s
+
+2018.06.10
+weather: rainy
+At 12:50 Am 
+water resisitity 0.73, T : 19.6  and 0.71, T:19.6 
+inner tank liquid level 16.00 cm T: 18.5 
+outer tank liquid level 20.41 cm T: 19.5
+Trigger Rate : 31.99 /s
+
+2018.06.11
+weather: rainy
+At 12:50 Am 
+water resisitity 0.83, T : 19.5  and 0.78, T:19.5 
+inner tank liquid level 16.00 cm T: 18.5 
+outer tank liquid level 20.42 cm T: 19.5
+Trigger Rate : 29.86 /s
+
+2018.06.12
+weather: rainy
+At 14:10 Am 
+water resisitity 0.87, T : 19.5  and 0.88, T:19.5 
+inner tank liquid level 16.00 cm T: 18.2 
+outer tank liquid level 20.43 cm T: 19.0
+Trigger Rate : 28.29 /s
+
+2018.06.13
+weather: rainy
+At 12:50 Am 
+water resisitity 0.86, T : 19.4  and 0.86, T:19.5 
+inner tank liquid level 16.01 cm T: 18.2 
+outer tank liquid level 20.43 cm T: 19.0
+Trigger Rate : 29.20 /s
+
+2018.06.14
+weather: rainy
+At 12:44 Am 
+water resisitity 0.85, T : 19.4  and 0.85, T:19.4 
+inner tank liquid level 16.02 cm T: 18.8 
+outer tank liquid level 20.44 cm T: 18.8
+Trigger Rate : 30.26 /s
+
+2018.06.16
+weather: Sunny
+At 18:35 Am 
+water resisitity 0.75, T : 19.4  and 0.69, T:19.4 
+inner tank liquid level 16.04 cm T: 18.2 
+outer tank liquid level 20.45 cm T: 19.8
+Trigger Rate : 29.67 /s
+
+2018.06.17
+weather: Sunny
+At 11:11 Am 
+water resisitity 0.81, T : 19.3  and 0.82, T:19.3 
+inner tank liquid level 16.03 cm T: 18.0 
+outer tank liquid level 20.44 cm T: 18.8
+Trigger Rate : 30.57 /s
+
+2018.06.18
+weather: Sunny
+At 17:09 Am 
+water resisitity 0.69, T : 19.3  and 0.68, T:19.3 
+inner tank liquid level 16.05 cm T: 18.2 
+outer tank liquid level 20.45 cm T: 19.0
+Trigger Rate : 28.16 /s
+
+2018.06.19
+weather: Sunny
+At 16:21 Am 
+water resisitity 0.64, T : 19.3  and 0.79, T:19.3 
+inner tank liquid level 16.04 cm T: 18.2 
+outer tank liquid level 20.44 cm T: 19.2
+Trigger Rate : 29.27 /s
+
+2018.06.20
+weather: Sunny +Rainy 
+At 15:53 Am 
+water resisitity 0.63, T : 19.3  and 0.80, T:19.3 
+inner tank liquid level 16.04 cm T: 18.2 
+outer tank liquid level 20.44 cm T: 19.0
+Trigger Rate : 30.69 /s
+
+2018.06.21
+weather: Sunny +Rainy 
+At 12:53 Am 
+water resisitity 0.78, T : 19.3  and 0.80, T:19.6 
+inner tank liquid level 16.05 cm T: 18.0 
+outer tank liquid level 20.46 cm T: 18.8
+Trigger Rate : 29.81 /s
+
+2018.06.22
+weather: Sunny 
+At 12:41 Am 
+water resisitity 0.78, T : 19.2  and 0.79, T:19.2 
+inner tank liquid level 16.06 cm T: 18.0 
+outer tank liquid level 20.46 cm T: 18.5
+Trigger Rate : 28.98 /s
+
+2018.06.23
+weather: Sunny 
+At 08:28 Am 
+water resisitity 0.76, T : 19.2  and 0.77, T:19.2 
+inner tank liquid level 16.06 cm T: 18.0 
+outer tank liquid level 20.47 cm T: 18.8
+Trigger Rate : 27.66 /s
+
+2018.06.24
+weather: Sunny 
+At 11:07 Am 
+water resisitity 0.76, T : 19.1  and 0.77, T:19.1 
+inner tank liquid level 16.06 cm T: 18.0 
+outer tank liquid level 20.46 cm T: 18.5
+Trigger Rate : 28.71 /s
+
+2018.06.25
+weather: Sunny 
+At 12:54 Am 
+water resisitity 0.69, T : 19.1  and 0.64, T:19.1 
+inner tank liquid level 16.06 cm T: 18.0 
+outer tank liquid level 20.46 cm T: 18.8
+Trigger Rate : 29.40 /s
+
+2018.06.26
+weather: Sunny 
+At 14:20 Pm 
+water resisitity 0.61, T : 19.1  and 0.74, T:19.2 
+inner tank liquid level 16.06 cm T: 18.0 
+outer tank liquid level 20.45 cm T: 18.8
+Trigger Rate : 29.40 /s
+
+2018.06.27
+weather: Sunny 
+At 12:38 Pm 
+water resisitity 0.61, T : 19.1  and 0.77, T:19.2 
+inner tank liquid level 16.06 cm T: 18.2 
+outer tank liquid level 20.45 cm T: 19.0
+Trigger Rate : 29.67 /s
+
+2018.06.28
+weather: Sunny 
+At 12:41 Pm 
+water resisitity 0.61, T : 19.2  and 0.75, T:19.2 
+inner tank liquid level 16.06 cm T: 18.2 
+outer tank liquid level 20.44 cm T: 18.8
+Trigger Rate : 29.88 /s
+
+2018.06.29
+weather: Sunny+Rainy 
+At 12:39 Pm 
+water resisitity 0.60, T : 19.2  and 0.75, T:19.2 
+inner tank liquid level 16.06 cm T: 18.2 
+outer tank liquid level 20.45 cm T: 18.8
+Trigger Rate : 29.88 /s
+At 13:00 pm, Open the pure water machine and after about 5 mins 
+close the pure water machine. and the detail is recorded.   
+
+---------------------------------------------
+shift begins from 2018-06-30 to 2018-08-01
+shifter: Jinjing Li
+---------------------------------------------
+2018-07-02:
+weather: rainy
+10:00 stop phy run 849
+after that I checked water resistance and ultrasonic detector
+10:20 begin ped run 850
+10:21 stop ped run 850
+10:31 begin phy run 851
+
+2018-07-03:
+weather: sunny
+08:23 stop phy run 851
+after that I checked water resistance and ultrasonic detector
+opened water machine while contacting with prof.Wang
+09:31 begin ped run 852
+09:32 stop ped run 852
+09:37 begin phy run 853
+check resistance of out water of water machine
+
+2018-07-04:
+weather: sunny
+08:23 stop phy run 853
+after that I checked water resistance and ultrasonic detector
+08:30 begin ped run 854
+08:31 stop ped run 854
+08:34 begin phy run 855
+Trigger rate abnormal observed (22Hz).
+08:44 stop phy run 855
+08:45 begin phy run 856
+check resistance of out water of water machine
+
+2018-07-05:
+weather: rainy
+08:17 stop phy run 856
+after that I checked water resistance and ultrasonic detector
+08:25 begin ped run 857
+08:26 stop ped run 857
+08:30 begin phy run 858
+check resistance of out water of water machine
+
+2018-07-06:
+weather: rainy
+08:31 stop phy run 858
+after that I checked water resistance and ultrasonic detector
+08:37 begin ped run 859
+08:38 stop ped run 859
+08:42 begin phy run 860
+check resistance of out water of water machine
+
+2018-07-07:
+weather: rainy
+08:28 stop phy run 860
+after that I checked water resistance and ultrasonic detector
+08:34 begin ped run 861
+08:35 stop ped run 861
+08:39 begin phy run 862
+check resistance of out water of water machine
+
+2018-07-08:
+weather: rainy
+08:39 stop phy run 862
+after that I checked water resistance and ultrasonic detector
+08:45 begin ped run 863
+08:46 stop ped run 863
+08:49 begin phy run 864
+check resistance of out water of water machine
+
+2018-07-09:
+weather: rainy
+08:27 stop phy run 864
+after that I checked water resistance and ultrasonic detector
+08:33 begin ped run 865
+08:34 stop ped run 865
+08:38 begin phy run 866
+check resistance of out water of water machine
+
+2018-07-10:
+weather: rainy
+12:42 stop phy run 866
+after that I checked water resistance and ultrasonic detector
+12:48 begin ped run 867
+12:49 stop ped run 867
+12:52 begin phy run 868
+check resistance of out water of water machine
+
+2018-07-11:
+weather: sunny
+8:15 stop phy run 868
+after that I checked water resistance and ultrasonic detector
+8:20 begin ped run 869
+8:21 stop ped run 869
+8:24 begin phy run 870
+check resistance of out water of water machine
+21:14 run 870 stopped abruptly:
+The trigger time of board 1 is different than that of board 0 by 1.71799e+10ns
+4226.247817 4226.247817 17179869176.000000 40.000000
+begin phy run 871
+
+2018-07-12:
+weather: cloudy
+water machine stopped due to power change
+9:10 stop phy run 871
+after that I checked water resistance and ultrasonic detector
+9:17 begin ped run 872
+9:18 stop ped run 872
+9:20 begin phy run 873
+check resistance of out water of water machine
+9:25 restart water machine
+
+2018-07-13:
+weather: rainy
+9:53 stop phy run 873
+after that I checked water resistance and ultrasonic detector
+9:58 begin ped run 874
+9:59 stop ped run 874
+10:02 begin phy run 875
+check resistance of out water of water machine
+
+2018-07-14:
+weather: sunny
+8:19 stop phy run 875
+after that I checked water resistance and ultrasonic detector
+8:24 begin ped run 876
+8:25 stop ped run 876
+8:28 begin phy run 877
+check resistance of out water of water machine
+
+2018-07-15:
+weather: rainy
+8:25 stop phy run 877
+after that I checked water resistance and ultrasonic detector
+8:31 begin ped run 878
+8:32 stop ped run 878
+8:38 begin phy run 879
+check resistance of out water of water machine
+
+2018-07-16:
+weather: sunny
+8:30 stop phy run 879
+after that I checked water resistance and ultrasonic detector
+8:35 begin ped run 880
+8:36 stop ped run 880
+8:38 begin phy run 881
+check resistance of out water of water machine
+
+2018-07-17:
+weather: sunny
+8:43 stop phy run 881
+after that I checked water resistance and ultrasonic detector
+8:48 begin ped run 882
+8:49 stop ped run 882
+8:52 begin phy run 883
+check resistance of out water of water machine
+
+2018-07-18:
+weather: rainy
+8:18 stop phy run 883
+after that I checked water resistance and ultrasonic detector
+8:24 begin ped run 884
+8:25 stop ped run 884
+8:28 begin phy run 885
+check resistance of out water of water machine
+
+2018-07-19:
+weather: sunny
+8:24 stop phy run 885
+after that I checked water resistance and ultrasonic detector
+8:30 begin ped run 886
+8:31 stop ped run 886
+8:34 begin phy run 887
+check resistance of out water of water machine
+
+2018-07-20:
+weather: sunny
+8:18 stop phy run 887
+after that I checked water resistance and ultrasonic detector
+8:25 begin ped run 888
+8:26 stop ped run 888
+8:28 begin phy run 889
+check resistance of out water of water machine
+
+2018-07-21:
+weather: sunny
+8:25 stop phy run 889
+after that I checked water resistance and ultrasonic detector
+8:30 begin ped run 890
+8:31 stop ped run 890
+8:34 begin phy run 891
+check resistance of out water of water machine
+
+2018-07-22:
+weather: sunny
+8:36 stop phy run 891
+after that I checked water resistance and ultrasonic detector
+8:41 begin ped run 892
+8:42 stop ped run 892
+8:45 begin phy run 893
+check resistance of out water of water machine
+
+2018-07-23:
+weather: sunny
+10:47 stop phy run 893
+after that I checked water resistance and ultrasonic detector
+10:54 begin ped run 894
+10:55 stop ped run 894
+10:57 begin phy run 895
+10:59 stop ped run 895
+10:59 begin phy run 896
+check resistance of out water of water machine
+
+2018-07-24:
+weather: sunny
+8:20 stop phy run 896
+after that I checked water resistance and ultrasonic detector
+8:26 begin ped run 897
+8:27 stop ped run 897
+8:30 begin phy run 898
+check resistance of out water of water machine
+
+2018-07-25:
+weather: sunny
+8:22 stop phy run 898
+after that I checked water resistance and ultrasonic detector
+8:29 begin ped run 899
+8:30 stop ped run 899
+8:33 begin phy run 900
+check resistance of out water of water machine
+water machine stopped due to power change twice, and I restart it twice.
+
+2018-07-26:
+weather: sunny
+8:32 stop phy run 900
+after that I checked water resistance and ultrasonic detector
+8:37 begin ped run 901
+8:38 stop ped run 901
+8:41 begin phy run 902
+check resistance of out water of water machine
+
+2018-07-27:
+weather: sunny
+8:18 stop phy run 902
+after that I checked water resistance and ultrasonic detector
+8:23 begin ped run 903
+8:24 stop ped run 903
+8:27 begin phy run 904
+check resistance of out water of water machine
+
+2018-07-28:
+weather: sunny
+phy run 904 stopped abruptly 
+after that I checked water resistance and ultrasonic detector
+10:12 begin ped run 905
+10:13 stop ped run 905
+10:16 begin phy run 906
+check resistance of out water of water machine
+
+2018-07-29:
+weather: rainny
+8:34 stop phy run 906
+after that I checked water resistance and ultrasonic detector
+8:40 begin ped run 907
+8:41 stop ped run 907
+8:43 begin phy run 908
+check resistance of out water of water machine
+
+2018-07-30:
+weather: sunny
+8:25 stop phy run 908
+after that I checked water resistance and ultrasonic detector
+8:31 begin ped run 909
+8:32 stop ped run 909
+8:34 begin phy run 910
+check resistance of out water of water machine
+18:53 stop phy run 910
+18:53 begin ped run 911
+18:54 stop ped run 911
+18:57 begin phy run 912
+
+--------------------
+shift begins 
+Shifter 	 :  Xu Tong
+Shift time :  2018.08.02-2017.08.24
+--------------------
+
+2018-08-02:
+weather: sunny
+3:40 stop phy run 912
+after that I checked water resistance and ultrasonic detector
+4:01 begin ped run 913
+4:04 stop ped run 913
+4:43 begin phy run 914
+check water machine and it's not running拢卢I restart it
+check resistance of out water of water machine
+
+2018-08-03:
+weather: rainy
+8:36 stop phy run 914
+after that I checked water resistance and ultrasonic detector
+8:53 begin ped run 915
+8:55 stop ped run 915
+9.16 begin phy run 916
+check resistance of out water of water machine
+
+2018-08-04:
+weather: sunny
+8:22 stop phy run 916
+after that I checked water resistance and ultrasonic detector
+8:27 begin ped run 917
+8:29 stop ped run 917
+9.37 begin phy run 918
+check resistance of out water of water machine
+
+2018-08-05:
+weather: sunny
+8:24 stop phy run 918
+after that I checked water resistance and ultrasonic detector
+8:29 begin ped run 919
+8:31 stop ped run 919
+9.33 begin phy run 920
+check resistance of out water of water machine
+
+2018-08-06:
+weather: sunny
+8:25 stop phy run 920
+after that I checked water resistance and ultrasonic detector
+8:30 begin ped run 921
+8:31 stop ped run 921
+8:39begin phy run 922
+check resistance of out water of water machine
+10:46 stop phy run 922
+10:46begin ped run923
+10:48 end ped run923
+10:54begin phy run924
+
+2018-08-07:
+weather: sunny
+8:21stop phy run 924
+after that I checked water resistance and ultrasonic detector
+8:26 begin ped run 925
+8:28 stop ped run 925
+8:35 begin phy run 926
+check resistance of out water of water machine
+
+2018-08-08:
+weather: sunny
+8:24stop phy run 926
+after that I checked water resistance and ultrasonic detector
+8:28 begin ped run 927
+8:30 stop ped run 927
+8:32 begin phy run 928
+check resistance of out water of water machine
+
+2018-08-09:
+weather: sunny
+10:00stop phy run 928
+after that I checked water resistance and ultrasonic detector
+10:06 begin ped run 929
+10:08 stop ped run 929
+10:10 begin phy run 930
+check resistance of out water of water machine
+
+2018-08-10:
+weather: sunny
+8:27stop phy run 930
+after that I checked water resistance and ultrasonic detector
+8:30 begin ped run 931
+8:32 stop ped run 931
+8:34 begin phy run 932
+check resistance of out water of water machine
+
+2018-08-11:
+weather: sunny
+11:34stop phy run 932
+after that I checked water resistance and ultrasonic detector
+11:37 begin ped run 933
+11:39stop ped run 933
+11:41 begin phy run 934
+check resistance of out water of water machine
+
+2018-08-12:
+weather: sunny
+13:38stop phy run 934
+after that I checked water resistance and ultrasonic detector
+13:42 begin ped run 935
+13:44stop ped run 935
+13:46 begin phy run 936
+check resistance of out water of water machine
+
+2018-08-13:
+weather: sunny
+13:38stop phy run 936
+after that I checked water resistance and ultrasonic detector
+13:42 begin ped run 937
+13:44 stop ped run 937
+13:46 begin phy run 938
+check resistance of out water of water machine
+
+2018-08-14:
+weather: sunny
+14:12stop phy run 938
+after that I checked water resistance and ultrasonic detector
+14:15 begin ped run 939
+14:17 stop ped run 939
+14:19 begin phy run 941
+check resistance of out water of water machine
+
+2018-08-15:
+weather: sunny
+8:25stop phy run 940
+after that I checked water resistance and ultrasonic detector
+8:28 begin ped run 941
+8:30 stop ped run 941
+8:32 begin phy run 942
+check resistance of out water of water machine
+
+2018-08-16:
+weather: sunny
+13:15stop phy run 942
+after that I checked water resistance and ultrasonic detector
+13:17 begin ped run 943
+13:19 stop ped run 943
+13:21 begin phy run 944
+check resistance of out water of water machine
+
+2018-08-17:
+weather: sunny
+8:16stop phy run 944
+after that I checked water resistance and ultrasonic detector
+8:19 begin ped run 945
+8:21 stop ped run 945
+8:23 begin phy run 946
+check resistance of out water of water machine
+
+2018-08-18:
+weather: sunny
+14:45stop phy run 946
+after that I checked water resistance and ultrasonic detector
+14:47 begin ped run 947
+14:49 stop ped run 947
+14:51 begin phy run 948
+check resistance of out water of water machine
+
+2018-08-19:
+weather: sunny
+13:15stop phy run 948
+after that I checked water resistance and ultrasonic detector
+13:17 begin ped run 949
+13:19 stop ped run 949
+13:21 begin phy run 950
+check resistance of out water of water machine
+
+2018-08-20:
+weather: sunny
+14:21stop phy run 950
+after that I checked water resistance and ultrasonic detector
+14:26 begin ped run 951
+14:28 stop ped run 951
+14:35 begin phy run 952
+check resistance of out water of water machine
+
+2018-08-21:
+weather: sunny
+10:32stop phy run 952
+after that I checked water resistance and ultrasonic detector
+10:36 begin ped run 953
+10:38 stop ped run 953
+10:40 begin phy run 954
+check resistance of out water of water machine
+
+2018-08-22:
+weather: sunny
+8:25stop phy run 954
+after that I checked water resistance and ultrasonic detector
+8:32 begin ped run 955
+8:34 stop ped run 955
+8:36 begin phy run 956
+check resistance of out water of water machine
+
+2018-08-23:
+weather: sunny
+8:31stop phy run 956
+after that I checked water resistance and ultrasonic detector
+8:32 begin ped run 957
+8:34 stop ped run 956
+8:36 begin phy run 958
+check resistance of out water of water machine
+
+2018-08-24:
+weather: sunny
+8:31stop phy run 958
+after that I checked water resistance and ultrasonic detector
+8:32 begin ped run 959
+8:34 stop ped run 959
+8:36 begin phy run 960
+check resistance of out water of water machine
+
+
+--------------------
+shift begins 
+Shifter 	 :  Luo Guang
+Shift time :  2018.08.28-2018.09.25
+--------------------
+
+20180828
+
+8:35 check pure water machine:Water Resistance:00.80MOcm
+8:45  The shell print:" The trigger time of board 2 is different than that of board0 by 1.71799e+10 ns,stop the run 960 by command "endrun.csh"
+after that I checked water resistance and ultrasonic detector
+9:22 begin ped run 961
+9:24 end ped run 961
+9:32 begin phy run 962
+sunny
+23:00 earthquake level 3.
+
+20180829
+
+4:00 earthquake level 4.
+8:27 check pure water machine:Water Resistance:00.80MOcm
+8:33 stop the run 962 by command "endrun.csh"
+after that I checked water resistance and ultrasonic detector
+8:51 begin ped run 963
+8:53 end ped run 963
+9:05 begin phy run 964
+sunny
+
+20180830
+
+8:26 check pure water machine:Water Resistance:00.80MOcm
+8:28 stop the run 964 by command "endrun.csh"
+after that I checked water resistance and ultrasonic detector
+8:44 begin ped run 965
+8:46 end ped run 965
+9:00 begin phy run 966
+sunny
+
+20180831
+
+8:23 check pure water machine:Water Resistance:00.80MOcm
+8:26 stop the run by command "endrun.csh"
+after that I checked water resistance and ultrasonic detector
+8:36 begin ped run 967
+8:37 end ped run 967
+8:44 begin phy run 968
+sunny
+
+20180901
+
+8:29 check pure water machine:Water Resistance:00.80MOcm
+8:31stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:37 begin ped run 969
+8:38 end ped run 969
+8:43 begin phy run 970
+sunny
+
+20180902
+
+8:16 check pure water machine:Water Resistance:00.80MOcm
+8:18 The shell print:" The trigger time of board 3 is different than that of board0 by 1.71799e+10 ns?
+stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:26 begin ped run 971
+8:27 end ped run 971
+8:30 begin phy run 972
+sunny
+
+20180903
+
+8:44 find pure water machine stopped.Turn on the pure water machine by asking jinjing and teacher Wang Zhe.
+check pure water machine:Water Resistance:00.80MOcm
+8:46 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:53 begin ped run 973
+8:55 end ped run 973
+9:00 begin phy run 974
+sunny
+
+20180904
+
+8:30 check pure water machine:Water Resistance:00.80MOcm
+8:31 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:39 begin ped run 975
+8:40 end ped run 975
+8:44 begin phy run 976
+sunny
+
+20180905
+
+8:17 check pure water machine:Water Resistance:00.80MOcm
+8:19 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:25 begin ped run 977
+8:26 end ped run 977
+8:30 begin phy run 978
+Sunny
+
+20180906
+
+8:30 check pure water machine:Water Resistance:00.80MOcm
+8:31 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:36 begin ped run 979
+8:37 end ped run 979
+8:41 begin phy run 980
+rainy
+
+20180907
+
+8:20 check pure water machine:Water Resistance:00.78MOcm
+8:21The shell print:" The trigger time of board 2 is different than that of board0 by 1.71799e+10 ns.
+stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:27 begin ped run 981
+8:29 end ped run 981
+8:32 begin phy run 982
+rainy
+
+20180908
+
+11:00 Visit
+10:40 check pure water machine:Water Resistance:00.78MOcm
+10:40 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+10:45 begin ped run 983
+10:46 end ped run 983
+10:49 begin phy run 984
+rainy
+
+20180909
+
+8:42 check pure water machine:Water Resistance:00.78MOcm
+8:43 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:52 begin ped run 985
+8:53 end ped run 985
+8:56 begin phy run 986
+rainy
+
+20180910
+
+8:31 check pure water machine:Water Resistance:00.78MOcm
+8:32 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:36 begin ped run 987
+8:37 end ped run 987
+8:40 begin phy run 988
+rainy
+
+20180911
+
+14:52 check pure water machine:Water Resistance:00.78MOcm
+14:53 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+14:57 begin ped run 989
+14:58 end ped run 989
+15:00 begin phy run 990
+rainy
+
+20180912
+
+8:24 check pure water machine:Water Resistance:00.78MOcm
+8:25 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:30 begin ped run 991
+8:31 end ped run 991
+8:33 begin phy run 992
+rainy
+
+20180913
+
+8:23 check pure water machine:Water Resistance:00.75MOcm
+8:25 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:28 begin ped run 993
+8:29 end ped run 993
+8:31 begin phy run 994
+rainy
+
+20180914
+
+8:26 check pure water machine:Water Resistance:00.75MOcm
+8:27 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:31 begin ped run 995
+8:32 end ped run 995
+8:35 begin phy run 996
+rainy
+
+20180915
+
+8:22 check pure water machine:Water Resistance:00.75MOcm
+8:23 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:27 begin ped run 997
+8:28 end ped run 997
+8:31 begin phy run 998
+sunny
+
+20180916
+
+8:36 check pure water machine:Water Resistance:00.72MOcm
+8:36stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:41 begin ped run 999
+8:42 end ped run 999
+8:43 begin phy run 1000
+sunny
+
+20180917
+
+8:29 check pure water machine:Water Resistance:00.75MOcm
+8:29stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:34 begin ped run 1001
+8:35 end ped run 1001
+8:37 begin phy run 1002
+sunny
+
+20180918
+
+8:19 check pure water machine:Water Resistance:00.72MOcm.
+8:20 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:26 begin ped run 1003
+8:27 end ped run 1003
+8:29 begin phy run 1004
+sunny
+
+20180919
+
+8:30 check pure water machine:Water Resistance:00.72MOcm.
+8:31 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:36 begin ped run 1005
+8:37 end ped run 1005
+8:39 begin phy run 1006
+sunny
+
+20180920
+
+8:30 check pure water machine:Water Resistance:00.72MOcm.
+8:30 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:35 begin ped run 1007
+8:36 end ped run 1007
+8:39 begin phy run 1008
+Sunny
+
+20180921
+
+8:25 check pure water machine:Water Resistance:00.72MOcm.
+8:25 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:29 begin ped run 1009
+8:30 end ped run 1009
+8:33 begin phy run 1010
+rainy
+
+20180922
+
+8:32 check pure water machine:Water Resistance:00.72MOcm.
+8:33stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:37 begin ped run 1011
+8:38 end ped run 1011
+8:40 begin phy run 1012
+rainy
+
+20180923
+
+8:39 check pure water machine:Water Resistance:00.70MOcm.
+8:40 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:43 begin ped run 1013
+8:44 end ped run 1013
+8:47 begin phy run 1014
+rainy
+
+20180924
+
+23:55 earthquake
+10:59 check pure water machine:Water Resistance:00.70MOcm.
+11:00 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+11:05 begin ped run 1015
+11:06 end ped run 1015
+11:09 begin phy run 1016
+sunny
+
+20180925
+
+8:25 check pure water machine:Water Resistance:00.70MOcm.
+8:25 stop the run by command "endrun.csh".
+after that I checked water resistance and ultrasonic detector.
+8:32 begin ped run 1017
+8:33 end ped run 1017
+8:36 begin phy run 1018
+sunny
+
+
+--------------------
+shift begins 
+Shifter    :  Dou Wei
+Shift time :  2018.9.26-2018.10.26
+--------------------
+
+20180926
+
+18:40 Reach Jinping dorm
+20:45 end phy run 1018
+20:46 begin ped run 1019
+20:48 end ped run 1019
+21:02 begin phy run 1020
+the pedestal.txt may not be replaced automatically
+rainy
+
+20180927
+
+08:20 check pure water machine:Water Resistance:00.72MOcm.
+08:22 stop the phy run 1020
+08:32 begin ped run 1021
+08:34 end ped run 1021
+09:04 begin phy run 1022
+rainy
+
+20180928
+
+16:55 check pure water machine:Water Resistance:00.70MOcm.
+16:57 stop the phy run 1022
+17:04 begin ped run 1023
+17:06 end ped run 1023
+17:09 begin phy run 1024
+rainy
+
+20180929
+
+08:23 check pure water machine:Water Resistance:00.70MOcm.
+08:24 stop the phy run 1024
+08:32 begin ped run 1025
+08:34 end ped run 1025
+09:48 begin phy run 1026
+rainy
+
+20180930
+
+08:34 check pure water machine:Water Resistance:00.68MOcm.
+08:35 stop the phy run 1026
+17:04 begin ped run 1027
+17:06 end ped run 1027
+17:09 begin phy run 1028
+rainy
+
+20181001
+
+08:25 check pure water machine:Water Resistance:00.70MOcm.
+08:26 stop the phy run 1028
+08:33 begin ped run 1029
+08:35 end ped run 1029
+08:37 begin ped run 1030
+forget to change config
+08:37 end ped run 1030
+08:38 begin phy run 1031
+rainy
+
+20181002
+
+08:20 check pure water machine:Water Resistance:00.68MOcm.
+08:21 stop the phy run 1031
+08:27 begin ped run 1032
+08:29 end ped run 1032
+08:30 begin phy run 1033
+rainy
+
+20181003
+
+08:34 check pure water machine:Water Resistance:00.68MOcm.
+08:34 stop the phy run 1033
+08:42 begin ped run 1034
+08:43 end ped run 1034
+08:45 begin phy run 1035
+rainy
+
+20181004
+
+08:30 check pure water machine:Water Resistance:00.68MOcm.
+08:31 stop the phy run 1035
+08:38 begin ped run 1036
+08:39 end ped run 1036
+08:42 begin phy run 1037
+rainy
+
+20181005
+
+15:17 check pure water machine:Water Resistance:00.68MOcm.
+15:19 stop the phy run 1037
+15:29 begin ped run 1038
+15:31 end ped run 1038
+15:33 begin phy run 1039
+rainy
+
+20181006
+
+08:25 check pure water machine:Water Resistance:00.67MOcm.
+08:26 stop the phy run 1039
+08:37 begin ped run 1040
+08:38 end ped run 1040
+08:41 begin phy run 1041
+cloudy
+
+20181007
+
+11:09 check pure water machine:Water Resistance:00.66MOcm.
+11:10 stop the phy run 1041
+11:18 begin ped run 1042
+11:20 end ped run 1042
+11:22 begin phy run 1043
+cloudy and sunny
+
+20181008
+
+08:29 check pure water machine:Water Resistance:00.66MOcm.
+08:29 stop the phy run 1043
+08:36 begin ped run 1044
+08:37 end ped run 1044
+08:39 begin phy run 1045
+cloudy and sunny
+
+20181009
+
+17:01 check pure water machine:Water Resistance:00.66MOcm.
+17:01 stop the phy run 1045
+17:07 begin ped run 1046
+17:08 end ped run 1046
+forget to cutoff the power of ultrasonic detector, restart pedestal run
+17:09 begin ped run 1047
+17:10 end ped run 1047
+17:12 begin phy run 1048
+sunny
+
+20181010
+
+17:02 check pure water machine:Water Resistance:00.67MOcm.
+17:03 stop the phy run 1048
+17:10 begin ped run 1049
+17:11 end ped run 1049
+17:12 begin phy run 1050
+cloudy
+
+20181011
+
+10:01 check pure water machine:Water Resistance:00.66MOcm.
+10:03 stop the phy run 1050
+10:38 begin ped run 1051
+10:39 end ped run 1051
+10:41 begin phy run 1052
+sunny
+
+20181012
+
+10:24 check pure water machine:Water Resistance:00.67MOcm.
+10:25 stop the phy run 1052
+10:31 begin ped run 1053
+10:33 end ped run 1053
+10:35 begin phy run 1054
+sunny
+
+20181013
+
+12:33 check pure water machine:Water Resistance:00.65MOcm.
+12:33 stop the phy run 1054
+12:38 begin ped run 1055
+12:39 end ped run 1055
+12:41 begin phy run 1056
+sunny
+
+20181014
+
+operated by Ziyi Guo, update pedestal program
+
+17:00 Stop Run 1056. Update readout and pedestal program. Compile the latest version.
+17:12 Start pedestal Run 1057.
+17:13 Stop pedestal Run 1057.
+17:31 Start physics Run 1059. 
+The count rate is about 35Hz, which is higher than before 
+slightly.
+
+20181015
+
+08:23 check pure water machine:Water Resistance:00.64MOcm.
+08:24 stop the phy run 1059
+08:32 begin ped run 1060
+08:34 end ped run 1060
+08:38 begin phy run 1061
+sunny
+
+20181016
+
+08:33 check pure water machine:Water Resistance:00.65MOcm.
+08:33 stop the phy run 1061
+08:38 begin ped run 1062
+08:40 end ped run 1062
+08:44 begin phy run 1063
+sunny
+
+20181017
+
+08:53 check pure water machine:Water Resistance:00.65MOcm.
+08:53 stop the phy run 1063
+09:02 begin ped run 1064
+09:04 end ped run 1064
+09:08 begin phy run 1065
+sunny
+
+20181018
+
+08:36 check pure water machine:Water Resistance:00.63MOcm.
+08:37 stop the phy run 1065
+08:44 begin ped run 1066
+08:46 end ped run 1066
+08:49 begin phy run 1067
+sunny
+
+20181019
+
+08:23 check pure water machine:Water Resistance:00.64MOcm.
+08:24 stop the phy run 1067
+08:31 begin ped run 1068
+08:33 end ped run 1068
+08:35 begin phy run 1069
+sunny
+
+20181020
+
+08:29 check pure water machine:Water Resistance:00.62MOcm.
+08:30 stop the phy run 1069
+08:36 begin ped run 1070
+08:38 end ped run 1070
+08:41 begin phy run 1071
+sunny
+
+20181021
+
+17:04 check pure water machine:Water Resistance:00.62MOcm.
+17:04 stop the phy run 1071
+17:08 begin ped run 1072
+17:10 end ped run 1072
+17:13 begin phy run 1073
+sunny
+
+20181022
+
+10:44 check pure water machine:Water Resistance:00.62MOcm.
+10:45 stop the phy run 1073
+10:50 begin ped run 1074
+10:52 end ped run 1074
+10:55 begin phy run 1075
+sunny
+
+20181023
+
+10:52 check pure water machine:Water Resistance:00.61MOcm.
+10:54 stop the phy run 1075
+11:01 begin ped run 1076
+11:03 end ped run 1076
+11:08 begin phy run 1077
+sunny
+
+20181024
+
+08:41 check pure water machine:Water Resistance:00.61MOcm.
+08:41 stop the phy run 1077
+08:48 begin ped run 1078
+08:50 end ped run 1078
+08:53 begin phy run 1079
+sunny
+
+20181025
+
+08:43 check pure water machine:Water Resistance:00.62MOcm.
+08:44 stop the phy run 1079
+08:50 begin ped run 1080
+08:52 end ped run 1080
+08:58 begin phy run 1081
+sunny
+
+20181026
+
+08:37 stop the phy run 1081
+08:42 begin ped run 1082
+08:45 end ped run 1082
+08:48 begin phy run 1083
+08:51 check pure water machine:Water Resistance:00.61MOcm.
+sunny
+
+
+--------------------
+shift begins 
+Shifter 	 :  Guo Ziyi
+Shift time :  2018.10.26-2018.11.23
+--------------------
+
+2018.10.28
+8:20 Stop run 1083
+Inner liquid level 20.33cm, temperature 20.2鈩�
+Outer liquid level 15.91cm, temperature 19.5鈩�
+Dark 0.71 light 0.63
+8:32 Start ped run 1084
+8:34 Stop run 1084
+8:35 Start physics run 1085
+
+2018.10.29
+13:23 Stop physics run 1085
+13:25 Start pedestal run 1086
+13:32 Stop pedestal run 1086
+13:33 Start physics run 1087
+
+2018.10.30
+8:24 Stop run 1087
+Inner liquid level 20.33cm, temperature 20.2鈩�
+Outer liquid level 15.91cm, temperature 19.5鈩�
+Dark 0.70 light 0.63
+8:30 Start ped run 1088
+8:32 Stop run 1089
+8:33 Start physics run 1089
+19:30 earthquake 
+
+2018.10.31
+13:44 Stop run 1089
+Inner liquid level 20.34cm, temperature 20.2鈩�
+Outer liquid level 15.92cm, temperature 19.5鈩�
+Dark 0.70 light 0.63
+13:50 Start ped run 1090
+13:52 Stop run 1090
+13:52 Start physics run 1091
+16:30 Earthquake
+
+2018.11.1
+8:38 Stop run 1091
+Inner liquid level 20.32cm, temperature 20.2鈩�
+Outer liquid level 15.92cm, temperature 19.5鈩�
+Dark 0.70 light 0.63
+8:40 switch the power in the lab.
+8:46 Start ped run 1092
+8:47 Stop run 1092
+8:48 Start physics run 1093
+20:00 switch the power in the lab
+13:05 Earthquake
+
+2018.11.2
+14:56 Stop run 1093
+Inner liquid level 20.34cm, temperature 20.2鈩�
+Outer liquid level 15.93cm, temperature 19.2鈩�
+Dark 0.66, 20.7鈩�, light 0.63, 20.6鈩�
+15:04 Start ped run 1094
+15:06 Stop run 1094
+15:07 Start physics run 1095
+
+2018.11.3
+14:28 Stop run 1095
+Inner liquid level 20.35cm, temperature 20.0鈩�
+Outer liquid level 15.94cm, temperature 19.2鈩�
+Dark 0.66, 20.6鈩�, light 0.63, 20.6鈩�
+14:34 Start ped run 1096
+14:36 Stop run 1096
+14:37 Start physics run 1097
+
+2018.11.4
+Data taking was interupted by trigger time problem.
+10:37 Start physics run 1098
+17:18 Stop run 1098
+Inner liquid level 20.35cm, temperature 20.0鈩�
+Outer liquid level 15.95cm, temperature 19.2鈩�
+Dark 0.66, 20.5鈩�, light 0.63, 20.5鈩�
+17:23 Start ped run 1099
+17:25 Stop run 1099
+17:26 Start physics run 1100
+
+2018.11.5
+17:01 Stop run 1100
+Inner liquid level 20.36cm, temperature 20.0鈩�
+Outer liquid level 15.96cm, temperature 19.0鈩�
+Dark 0.66, 20.5鈩�, light 0.63, 20.5鈩�
+17:15 Turn on the pure water machine 
+17:23 Start ped run 1101
+17:25 Stop run 1101
+17:25 Start physics run 1102
+
+2018.11.6
+8:23 Stop run 1102
+Inner liquid level 20.35cm, temperature 20.5鈩�
+Outer liquid level 15.97cm, temperature 19.2鈩�
+Dark 0.70 light 0.62 20.4鈩�
+Pure water machine 0.58
+8:30 Start ped run 1103
+8:31 Stop run 1103
+8:32 Start physics run 1104
+
+2018.11.7
+16:52 Stop run 1104
+Inner liquid level 20.35cm, temperature 20.0鈩�
+Outer liquid level 15.96cm, temperature 19.2鈩�
+Dark 0.69 light 0.62 20.4鈩�
+Pure water machine 0.58
+16:58 Start ped run 1105
+17:00 Stop run 1105
+17:00 Start physics run 1106
+
+2018.11.9
+8:23 Stop run 1106
+Inner temperature 19.9鈩�, liquid level 15.93cm
+Outer temperature 20.8鈩�, liquid level 20.33cm
+Light 20.7鈩�, 0.65MOhm路cm
+Dark 20.7鈩�, 0.69MOhm路cm
+Pure water machine 0.58MOhm路cm
+8:31 Start ped run 1107
+8:32 Stop run 1107
+8:33 Start physics run 1108
+
+2018.11.12
+9:30 Stop run 1108
+9:30 Start run 1109
+15:05 Stop run 1109
+Inner temperature 19.2鈩�, liquid level 15.93cm
+Outer temperature 20.2鈩�, liquid level 20.32cm
+Light 20.7鈩�, 0.62MOhm路cm
+Dark 20.8鈩�, 0.68MOhm路cm
+Pure water machine 0.57MOhm路cm
+15:09 Start ped run 1110
+15:10 Stop run 1110
+15:10 Start physics run 1111
+
+2018.11.13
+8:28 Stop run 1111
+Inner temperature 19.2鈩�, liquid level 15.92cm
+Outer temperature 20.2鈩�, liquid level 20.32cm
+Light 20.7鈩�, 0.62MOhm路cm
+Dark 20.8鈩�, 0.68MOhm路cm
+Pure water machine 0.55MOhm路cm
+Add timestamps to event display json file.
+8:36 Start ped run 1112
+8:38 Stop run 1112
+8:38 Start physics run 1113
+
+
+2018.11.14
+8:32 Stop run 1113
+Inner temperature 19.2鈩�, liquid level 15.92cm
+Outer temperature 20.2鈩�, liquid level 20.32cm
+Light 20.7鈩�, 0.62MOhm路cm
+Dark 20.8鈩�, 0.68MOhm路cm
+Pure water machine 0.55MOhm路cm
+8:37 Start ped run 1114
+8:38 Stop run 1114
+8:39 Start physics run 1115
+
+2018.11.16
+8:38 Stop run 1115
+Inner temperature 19.5鈩�, liquid level 15.92cm
+Outer temperature 20.2鈩�, liquid level 20.33cm
+Light 20.8鈩�, 0.61MOhm路cm
+Dark 20.8鈩�, 0.67MOhm路cm
+Pure water machine 0.55MOhm路cm
+8:43 Start ped run 1116
+8:45 Stop run 1116
+8:46 Start physics run 1117
+
+2018.11.17
+8:27 Stop run 1117
+Inner temperature 20.2鈩�, liquid level 15.90cm
+Outer temperature 21.5鈩�, liquid level 20.29cm
+Light 21.0鈩�, 0.62MOhm路cm
+Dark 21.0鈩�, 0.67MOhm路cm
+Pure water machine 0.55MOhm路cm
+8:37 Start ped run 1119
+8:39 Stop run 1119
+8:39 Start physics run 1120
+
+2018.11.18
+13:22 Stop run 1120
+Inner temperature 20.0鈩�, liquid level 15.88cm
+Outer temperature 21.6鈩�, liquid level 20.29cm
+Light 21.1鈩�, 0.62MOhm路cm
+Dark 21.2鈩�, 0.67MOhm路cm
+Pure water machine 0.55MOhm路cm
+13:27 Start ped run 1121
+13:28 Stop run 1121
+13:28 Start physics run 1122
+
+2018.11.19
+12:59 Stop run 1122
+Inner temperature 20.5鈩�, liquid level 15.85cm
+Outer temperature 21.8鈩�, liquid level 20.27cm
+Light 21.3鈩�, 0.62MOhm路cm
+Dark 21.3鈩�, 0.67MOhm路cm
+Pure water machine 0.54MOhm路cm
+13:04 Start ped run 1123
+13:06 Stop run 1123
+13:01 Start physics run 1124
+
+2018.11.20
+8:34 Stop run 1124
+Inner temperature 21.0鈩�, liquid level 15.84cm
+Outer temperature 21.9鈩�, liquid level 20.24cm
+Light 21.5鈩�, 0.64MOhm路cm
+Dark 21.5鈩�, 0.66MOhm路cm
+Pure water machine 0.53MOhm路cm
+8:40 Start ped run 1125
+8:41 Stop run 1125
+8:42 Start physics run 1126
+
+2018.11.21
+9:01 Stop run 1126
+Inner temperature 20.5鈩�, liquid level 15.83cm
+Outer temperature 21.2鈩�, liquid level 20.26cm
+Light 20.6鈩�, 0.62MOhm路cm
+Dark 20.6鈩�, 0.66MOhm路cm
+Pure water machine 0.53MOhm路cm
+9:08 Start ped run 1127
+9:09 Stop run 1127
+9:10 Start physics run 1128
+20:22 Stop run 1128
+Add start time to json file.
+20:23 Start run 1129
+
+2018.11.22
+22:48 Stop run 1129
+22:50 Start ped run 1130
+22:51 Stop ped run 1130
+22:52 Start phy run 1131
+
+
+--------------------
+shift begins 
+Shifter    :  Zhao Lin
+Shift time :  2018.12.22-2019.2.14
+--------------------
+
+2018.12.22
+17.32 end Phy run 1185
+17.33 start Ped run 1186
+17.36 end Ped run 1186
+17.50 start ped run 1187 for mistake
+
+2018.12.23
+16.51 end ped run 1187
+16.52 start phy run 1188
+
+2018.12.24
+16.19 end phy run 1188
+16.19 start ped run 1189
+16.32 end ped run 1189
+16.43 start phy run 1190
+
+2018.12.26
+sunny
+12.21  end phy run 1190
+12.22  start ped run 1191
+12.24  end ped run 1191
+12:26  start phy run 1192
+
+2018.12.27
+sunny
+13:53   end phy run 1192
+13:53   start ped run 1193
+13:55   end ped run 1193
+13:56   start phy run 1194
+
+2018.12.28
+sunny 
+8:27   end phy run 1194
+Water resistance: Det1 9:55 20.4鈩�, 0.57MOhm路cm; Det2 9:50, 20.4鈩�, 0.59MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.2鈩�, outer sphere water level 20.37cm, temperature 20.0鈩�.
+8:38   start ped run 1195
+8:39   end ped run 1195
+8:41   start phy run 1196
+
+2018.12.29
+sunny 
+8:27   end phy run 1196
+Water resistance: Det1 9:53 20.4鈩�, 0.57MOhm路cm; Det2 9:47, 20.4鈩�, 0.57MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.0鈩�, outer sphere water level 20.37cm, temperature 20.0鈩�.
+8:31   start ped run 1197
+8:32   end ped run 1197
+8:35   start phy run 1198
+
+2018.12.30
+cloudy
+8:23   end phy run 1198
+Water resistance: Det1 9:50 20.3鈩�, 0.56MOhm路cm; Det2 9:45, 20.3鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.0鈩�, outer sphere water level 20.37cm, temperature 19.8鈩�.
+8:27   start ped run 1199
+8:31   end ped run 1199
+8:33   start phy run 1200
+
+2018.12.31
+Sunny
+8:27   end phy run 1200
+Water resistance: Det1 9:54 20.3鈩�, 0.55MOhm路cm; Det2 9:48, 20.3鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.0鈩�, outer sphere water level 20.37cm, temperature 20.0鈩�.
+8:31   start ped run 1201
+8:35   end ped run 1201
+8:37   start phy run 1202
+
+2019.01.01
+Sunny
+8:23   end phy run 1202
+Water resistance: Det1 9:51 20.3鈩�, 0.55MOhm路cm; Det2 9:45, 20.3鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.02cm, 19.2鈩�, outer sphere water level 20.37cm, temperature 20.0鈩�.
+8:27   start ped run 1203
+8:29   end ped run 1203
+8:31   start phy run 1204
+
+2019.01.02
+11.40 end phy run 1204
+11:40 start ped run 1205
+11:43 end ped run 1205
+16.43 start phy run 1206
+
+2019.01.03
+Sunny
+8:43   end phy run 1206
+Water resistance: Det1 10:09 20.4鈩�, 0.54MOhm路cm; Det2 10:03, 20.4鈩�, 0.58MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.2鈩�, outer sphere water level 20.36cm, temperature 20.2鈩�.
+8:47   start ped run 1207
+8:50   end ped run 1207
+8:51   start phy run 1208
+
+
+2019.01.04
+Sunny
+8:23   end phy run 1208
+Water resistance: Det1 09:52 20.4鈩�, 0.54MOhm路cm; Det2 09:47, 20.4鈩�, 0.58MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.5鈩�, outer sphere water level 20.36cm, temperature 20.2鈩�.
+8:29   start ped run 1209
+8:33   end ped run 1209
+8:34   start phy run 1210
+
+2019.01.05
+Sunny
+8:24   end phy run 1210
+Water resistance: Det1 09:54 20.5鈩�, 0.54MOhm路cm; Det2 09:48, 20.5鈩�, 0.58MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.2鈩�, outer sphere water level 20.35cm, temperature 20.5鈩�.
+8:28   start ped run 1211
+8:31   end ped run 1211
+8:33   start phy run 1212
+
+2019.01.06
+Sunny
+8:36   end phy run 1212
+Water resistance: Det1 10:03 20.5鈩�,s 0.54MOhm路cm; Det2 09:57, 20.5鈩�, 0.58MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.5鈩�, outer sphere water level 20.35cm, temperature 20.2鈩�.
+8:40   start ped run 1213
+8:43   end ped run 1213
+8:44   start phy run 1214
+
+2019.01.07
+Sunny
+8:30   end phy run 1214
+Water resistance: Det1 09:57 20.5鈩�,s 0.54MOhm路cm; Det2 09:51, 20.5鈩�, 0.58MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.2鈩�, outer sphere water level 20.36cm, temperature 20.5鈩�.
+8:35   start ped run 1215
+8:39   end ped run 1215
+8:41   start phy run 1216
+
+2019.01.08
+Cloudy
+8:30   end phy run 1216
+Water resistance: Det1 09:57 20.5鈩�,s 0.53MOhm路cm; Det2 09:51, 20.5鈩�, 0.57MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.5鈩�, outer sphere water level 20.35cm, temperature 20.2鈩�.
+8:33   start ped run 1217
+8:35   end ped run 1217
+8:37   start phy run 1218
+
+2019.01.09
+Sunny
+8:24   end phy run 1218
+Water resistance: Det1 09:52 20.5鈩�,s 0.52MOhm路cm; Det2 09:51, 20.6鈩�, 0.57MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.5鈩�, outer sphere water level 20.35cm, temperature 20.2鈩�.
+8:28   start ped run 1219
+8:30   end ped run 1219
+8:31   start phy run 1220
+
+2019.01.10
+Sunny
+8:24   end phy run 1220
+8:28   start ped run 1221
+8:30   end ped run 1221
+8:31   start phy run 1222
+
+2019.01.11
+Sunny
+13:21   end phy run 1222
+13:21   start ped run 1223
+13:23   end ped run 1223
+13:25   start phy run 1224
+
+2019.01.12
+Sunny
+16:25   end phy run 1224
+Water resistance: Det1 17:54 20.6鈩�,s 0.52MOhm路cm; Det2 17:48, 20.6鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.5鈩�, outer sphere water level 20.35cm, temperature 20.2鈩�.
+16:30   start ped run 1225
+16:32   end ped run 1225
+16:33   start phy run 1226
+
+
+2019.01.13
+Sunny
+8:25   end phy run 1226 
+Trigger rate 34.9992/s 1.53885Mbyte/s
+The trigger time of borad 3 is different than that of board 0 by 1.71799e+10ns
+Water resistance: Det1 9:57 20.6鈩�,s 0.52MOhm路cm; Det2 9:51, 20.6鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.2鈩�, outer sphere water level 20.35cm, temperature 20.5鈩�.
+8:31   start ped run 1227
+8:35   end ped run 1227
+8:36   start phy run 1228
+
+2019.01.14
+Sunny
+8:26   end phy run 1228
+Water resistance: Det1 9:54 20.6鈩�,s 0.51MOhm路cm; Det2 9:48, 20.6鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 19.5鈩�, outer sphere water level 20.35cm, temperature 20.2鈩�.
+8:32   start ped run 1229
+8:35   end ped run 1229
+8:36   start phy run 1230
+
+
+2019.01.15
+Sunny
+8:26   end phy run 1230
+Water resistance: Det1 9:54 20.6鈩�,s 0.51MOhm路cm; Det2 9:48, 20.6鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 16.00cm, 19.5鈩�, outer sphere water level 20.34cm, temperature 20.5鈩�.
+8:31   start ped run 1231
+8:33   end ped run 1231
+8:35   start phy run 1232
+
+2019.01.16
+Sunny
+8:26   end phy run 1232
+Water resistance: Det1 9:54 20.6鈩�,s 0.51MOhm路cm; Det2 9:48, 20.7鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.5鈩�, outer sphere water level 20.34cm, temperature 20.5鈩�.
+8:29   start ped run 1233
+8:33   end ped run 1233
+8:34   start phy run 1234
+
+2019.01.17
+Sunny
+8:18   end phy run 1234
+Water resistance: Det1 9:47 20.7鈩�,s 0.51MOhm路cm; Det2 9:41, 20.7鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.96cm, 19.5鈩�, outer sphere water level 20.33cm, temperature 20.5鈩�.
+8:22   start ped run 1235
+8:25   end ped run 1235
+8:26   start phy run 1236
+
+
+2019.01.18
+Sunny
+8:17   end phy run 1236
+Water resistance: Det1 9:47 20.7鈩�,s 0.51MOhm路cm; Det2 9:41, 20.7鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.5鈩�, outer sphere water level 20.34cm, temperature 20.2鈩�.
+8:20   start ped run 1237, end 1237, start ped 1238
+8:22   end ped run 1238
+8:23   start phy run 1239
+
+
+2019.01.19
+Sunny
+8:19   end phy run 1239
+Water resistance: Det1 9:47 20.7鈩�,s 0.50MOhm路cm; Det2 9:41, 20.7鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 19.8鈩�, outer sphere water level 20.33cm, temperature 20.5鈩�.
+8:23   start ped run 1240
+8:26   end ped run 1240
+8:30   start phy run 1241
+
+2019.01.20
+Sunny
+8:18   end phy run 1241
+Water resistance: Det1 9:47 20.7鈩�,s 0.50MOhm路cm; Det2 9:41, 20.7鈩�, 0.56MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 19.5鈩�, outer sphere water level 20.34cm, temperature 20.2鈩�.
+8:21   start ped run 1242
+8:24   end ped run 1242
+8:25   start phy run 1243
+
+2019.01.21
+Sunny
+15:28   end phy run 1243
+Water resistance: Det1 16:57 20.7鈩�,s 0.50MOhm路cm; Det2 16:51, 20.8鈩�, 0.55MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.99cm, 19.5鈩�, outer sphere water level 20.33cm, temperature 20.5鈩�.
+15:30   start ped run 1244
+15:35   end ped run 1244
+15:36   start phy run 1245
+
+2019.01.22
+Sunny
+8:25   end phy run 1245
+Water resistance: Det1 9:54 20.8鈩�,s 0.50MOhm路cm; Det2 9:48, 20.8鈩�, 0.55MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.98cm, 19.5鈩�, outer sphere water level 20.34cm, temperature 20.5鈩�.
+8:29   start ped run 1246
+8:32   end ped run 1246
+8:33   start phy run 1247
+
+2019.01.23
+Sunny
+Power off, UPS works.
+8:23   end phy run 1247
+Water resistance: Det1 9:54 20.8鈩�,s 0.50MOhm路cm; Det2 9:48, 20.8鈩�, 0.55MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 19.5鈩�, outer sphere water level 20.33cm, temperature 20.5鈩�.
+8:26   start ped run 1248
+8:28   end ped run 1248
+8:29   start phy run 1249
+
+2019.01.24
+Sunny
+8:26   end phy run 1249
+Water resistance: Det1 9:54 20.8鈩�,s 0.49MOhm路cm; Det2 9:48, 20.8鈩�, 0.54MOhm路cm
+Connect ultrasonic detector. Inner sphere LS level 15.97cm, 19.5鈩�, outer sphere water level 20.33cm, temperature 20.2鈩�.
+8:31   start ped run 1250
+8:34   end ped run 1250
+8:35   start phy run 1251
+
+2019.01.25
+Sunny
+11:33   end phy run 1251
+11:34   start ped run 1252
+11:36   end ped run 1252
+11:37   start phy run 1253
+
+2019.01.26
+12.38  end phy run 1253
+12.39  start ped run 1254
+12.41  end ped run 1254
+12:43  start phy run 1255
+
+2019.01.27
+11.27  end phy run 1255
+12.27  start ped run 1256
+12.30  end ped run 1256
+12:31  start phy run 1257
+
+2019.01.28
+12.41  end phy run 1257
+12.42  start ped run 1258
+12.45  end ped run 1258 
+12:49 start and end ped run 1259
+12:50  start phy run 1260
+
+2019.01.29
+14.58  end phy run 1260
+The trigger time of board 1 is different than that of board0 by -6.24504e+09 ns
+15.00  start ped run 1261
+15:02  end ped run 1261
+15:06  start phy run 1262
+
+2019.01.30
+15.16  end phy run 1262
+15.17  start ped run 1263
+15:19  end ped run 1263
+15:20  start phy run 1264
+
+
+2019.01.31
+16.56  end phy run 1264
+16.56  start ped run 1265
+16:59  end ped run 1265
+17:06  start phy run 1266
+
+2019.02.01
+17.46  end phy run 1266
+17.47  start ped run 1267
+16:49  end ped run 1267
+17:50  start phy run 1268
+
+2019.02.02
+19.05  end phy run 1268
+19.05  start ped run 1269
+19:08  end ped run 1269
+19:09  start phy run 1270
+
+2019.02.03
+18.21  end phy run 1270
+18.21  start ped run 1271
+18:24  end ped run 1271
+18:25  start phy run 1272
+
+2019.02.04
+18.24  end phy run 1272
+18.25  start ped run 1273
+18:28  end ped run 1273
+18:29  start phy run 1274
+
+2019.02.05
+18.26  end phy run 1274
+18.26  start ped run 1275
+18:29  end ped run 1275
+18:30  start phy run 1276
+
+
+2019.02.06
+18.26  end phy run 1276
+18.26  start ped run 1277
+18:29  end ped run 1277
+18:30  start phy run 1278
+
+2019.02.08
+10.15  end phy run 1278
+10.15  start ped run 1279
+10:19  end ped run 1279
+10:20  start phy run 1280
+
+2019.02.09
+12.10  end phy run 1280
+12.10  start ped run 1281
+12:14  end ped run 1281
+12:25  start phy run 1282
+
+2019.02.10
+11.55  end phy run 1282
+11.55  start ped run 1283
+11:59  end ped run 1283
+12:00  start phy run 1284
+
+2019.02.11
+12.03  end phy run 1284
+12.04  start ped run 1285
+12:11  end ped run 1285
+12:12  start phy run 1286
+
+
+2019.02.12
+12.02  end phy run 1286
+12.02  start ped run 1287
+12:06  end ped run 1287
+12:06  start phy run 1288
+
+2019.02.13
+The trigger time of board 2 is different than that of board0 by -1.14498e+10 ns
+13348.758350 13348.758350 322135496.000000 11771890328.000002
+14.25  end phy run 1288
+14.25  start ped run 1289
+14:29  end ped run 1289
+14:29  start phy run 1290
+
+2019.02.14
+13.05  end phy run 1290
+13.05  start ped run 1291
+13:39  end ped run 1291
+13:43  start phy run 1292
+
+--------------------
+shift begins 
+Shifter 	 :  Jinjing Li
+Shift time :  2019.02.13-2019.03.06
+--------------------
+
+2-15
+9：40 stop phy run 1292
+light：0.45 MOcm，20.7°
+dark：0.48 MOcm，20.8°
+Outer Tank：20.32cm，20.8°
+Inner Sphere：15.98cm，19.8°
+9：52 start ped run 1293
+9：54 stop ped run 1293
+10：01 start phy run 1294
+Find pure water machine stopped.
+
+2-16
+14：58 stop phy run 1294
+light：0.45 MOcm，20.7°
+dark：0.48 MOcm，20.8°
+Outer Tank：20.33cm，20.5°
+Inner Sphere：15.98cm，19.8°
+15：07 start ped run 1295
+15：09 stop ped run 1295
+15：11 start phy run 1296
+
+2-17
+8：26 stop phy run 1296
+light：0.44 MOcm，20.7°
+dark：0.47 MOcm，20.8°
+Outer Tank：20.33cm，20.5°
+Inner Sphere：15.98cm，19.8°
+8：34 start ped run 1297
+8：36 stop ped run 1297
+8：38 start phy run 1298
+9：00 stop phy run 1298
+9：30 start phy run 1299
+
+2-18
+12：40 stop phy run 1299
+light：0.45 MOcm，20.7°
+dark：0.47 MOcm，20.7°
+Outer Tank：20.34cm，20.2°
+Inner Sphere：15.99cm，19.5°
+12：46 start ped run 1300
+12：48 stop ped run 1300
+12：49 start phy run 1301
+
+2-19
+12：37 stop phy run 1301
+light：0.45 MOcm，20.6°
+dark：0.47 MOcm，20.6°
+Outer Tank：20.34cm，20.2°
+Inner Sphere：15.99cm，19.2°
+12：43 start ped run 1302
+12：45 stop ped run 1302
+12：47 start phy run 1303
+
+2-20
+17：07 stop phy run 1303
+light：0.45 MOcm，20.6°
+dark：0.47 MOcm，20.6°
+Inner Sphere：16.00cm，19.2°
+Outer Tank：20.35cm，20.0°
+17：12 start ped run 1304
+17：14 stop ped run 1304
+17：16 egin phy run 1305
+
+2-21
+8：20 stop phy run 1305
+light：0.45 MOcm，20.5°
+dark：0.47 MOcm，20.6°
+Outer Tank：20.35cm，20.2°
+Inner Sphere：16.00cm，19.2°
+8：26 start ped run 1306
+8：28 stop ped run 1306
+8：30 start phy run 1307
+
+2-22
+8：34 stop phy run 1307
+light：0.45 MOcm，20.5°
+dark：0.46 MOcm，20.5°
+Inner Sphere：16.00cm，19.2°
+Outer Tank：20.35cm，20.0°
+8：40 start ped run 1308
+8：42 stop ped run 1308
+9：05 start phy run 1309
+Open pure water machine
+
+2-23
+11：21 stop phy run 1309
+11：22 start ped run 1310
+11：24 stop ped run 1310
+11：26 start phy run 1311
+
+2-24
+21：02 stop phy run 1311
+21：04 start ped run 1312
+21：06 stop ped run 1312
+21：07 start phy run 1313
+
+2-25
+8：17 stop phy run 1313
+light：0.43 MOcm，20.4°
+dark：0.45 MOcm，20.4°
+Outer Tank：20.36cm，20°
+Inner Sphere：16.00cm，19.0°
+8：24 start ped run 1314
+8：26 stop ped run 1314
+8：27 start phy run 1315
+
+2-26
+8：20 stop phy run 1315
+light：0.43 MOcm，20.4°
+dark：0.45 MOcm，20.4°
+Inner Sphere：16.01cm，19.2°
+Outer Tank：20.36cm，20.0°
+8：25 start ped run 1316
+8：27 stop ped run 1316
+8：28 start phy run 1317
+
+2-27
+13：13 stop phy run 1317
+light：0.43 MOcm，20.3°
+dark：0.45 MOcm，20.4°
+Outer Tank：20.37cm，20°
+Inner Sphere：16.02cm，19.0°
+13：20 start ped run 1318
+13：22 stop ped run 1318
+13：25 start phy run 1319
+
+2-28
+
+16：52 stop phy run 1319
+light：0.43 MOcm，20.3°
+dark：0.45 MOcm，20.3°
+Inner Sphere：16.03cm，19.0°
+Outer Tank：20.38cm，20.0°
+16：54 start ped run 1320
+16：56 stop ped run 1320
+16：58 start phy run 1321
+16：59 stop phy run 1321
+17：04 start phy run 1322
+
+03-01
+8：20 stop phy run 1322
+light：0.43 MOcm，20.3°
+dark：0.44 MOcm，20.3°
+Outer Tank：20.38cm，20.0°
+Inner Sphere：16.02cm，19.0°
+8：26 start ped run 1323
+8：27 stop ped run 1323
+8：29 start phy run 1324
+
+3-2
+11：05 stop phy run 1324
+light：0.42 MOcm，20.3°
+dark：0.44 MOcm，20.3°
+Inner Sphere：16.03cm，19.0°
+Outer Tank：20.37cm，20.0°
+11：14 start ped run 1325
+11：16 stop ped run 1325
+11：16 start phy run 1326
+
+3-3
+12：42 stop phy run 1326
+light：0.42 MOcm，20.2°
+dark：0.44 MOcm，20.2°
+Outer Tank：20.38cm，20.0°
+Inner Sphere：16.04cm，19.0°
+12：48 start ped run 1327
+12：50 stop ped run 1327
+12：52 start phy run 1328
+
+3-4
+14：55 find blue screen
+light：0.42 MOcm，20.2°
+dark：0.43 MOcm，20.2°
+Inner Sphere：16.04cm，19.0°
+Outer Tank：20.38cm，20.0°
+15：03 start ped run 1329
+15：05 stop ped run 1329
+15：09 start phy run 1330
+
+3-5
+light：0.42 MOcm，20.2°
+dark：0.43 MOcm，20.2°
+Inner Sphere：16.04cm，19.0°
+Outer Tank：20.38cm，20.0°
+8：18 stop phy run 1330
+8：19 start ped run 1331
+8：21 stop ped run 1331
+8：26 start phy run 1332
+
+3-6
+
+19：02 stop phy run 1332
+19：03 start ped run 1333
+19：05 stop ped run 1333
+19：12 start phy run 1334
